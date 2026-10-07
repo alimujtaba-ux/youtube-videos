@@ -1,0 +1,6703 @@
+{
+  "duration": 420.675875,
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Imagine you earn $80,000 a year.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.26,
+          "word": "Imagine",
+          "probability": 0.9420052766799927
+        },
+        {
+          "start": 0.26,
+          "end": 0.6,
+          "word": "you",
+          "probability": 0.9933852553367615
+        },
+        {
+          "start": 0.6,
+          "end": 0.8,
+          "word": "earn",
+          "probability": 0.9903296232223511
+        },
+        {
+          "start": 0.8,
+          "end": 1.3,
+          "word": "$80",
+          "probability": 0.9219882488250732
+        },
+        {
+          "start": 1.3,
+          "end": 1.74,
+          "word": ",000",
+          "probability": 0.9945212304592133
+        },
+        {
+          "start": 1.74,
+          "end": 2.18,
+          "word": "a",
+          "probability": 0.9569706916809082
+        },
+        {
+          "start": 2.18,
+          "end": 2.42,
+          "word": "year.",
+          "probability": 0.9985412359237671
+        }
+      ]
+    },
+    {
+      "start": 3.08,
+      "end": 6.38,
+      "text": "Your employer offers a 50% 401k match,",
+      "words": [
+        {
+          "start": 3.08,
+          "end": 3.2,
+          "word": "Your",
+          "probability": 0.9846936464309692
+        },
+        {
+          "start": 3.2,
+          "end": 3.52,
+          "word": "employer",
+          "probability": 0.9962949156761169
+        },
+        {
+          "start": 3.52,
+          "end": 4.06,
+          "word": "offers",
+          "probability": 0.9974834322929382
+        },
+        {
+          "start": 4.06,
+          "end": 4.26,
+          "word": "a",
+          "probability": 0.9891883730888367
+        },
+        {
+          "start": 4.26,
+          "end": 4.5,
+          "word": "50",
+          "probability": 0.9772697687149048
+        },
+        {
+          "start": 4.5,
+          "end": 5.0,
+          "word": "%",
+          "probability": 0.9442034959793091
+        },
+        {
+          "start": 5.0,
+          "end": 5.9,
+          "word": "401k",
+          "probability": 0.6656147539615631
+        },
+        {
+          "start": 5.9,
+          "end": 6.38,
+          "word": "match,",
+          "probability": 0.9807151556015015
+        }
+      ]
+    },
+    {
+      "start": 6.62,
+      "end": 8.12,
+      "text": "up to 6% of your salary.",
+      "words": [
+        {
+          "start": 6.62,
+          "end": 6.72,
+          "word": "up",
+          "probability": 0.9970321655273438
+        },
+        {
+          "start": 6.72,
+          "end": 6.86,
+          "word": "to",
+          "probability": 0.9984015822410583
+        },
+        {
+          "start": 6.86,
+          "end": 7.16,
+          "word": "6",
+          "probability": 0.9686356782913208
+        },
+        {
+          "start": 7.16,
+          "end": 7.36,
+          "word": "%",
+          "probability": 0.9675472974777222
+        },
+        {
+          "start": 7.36,
+          "end": 7.72,
+          "word": "of",
+          "probability": 0.9946892261505127
+        },
+        {
+          "start": 7.72,
+          "end": 7.82,
+          "word": "your",
+          "probability": 0.9953624606132507
+        },
+        {
+          "start": 7.82,
+          "end": 8.12,
+          "word": "salary.",
+          "probability": 0.9986070990562439
+        }
+      ]
+    },
+    {
+      "start": 8.9,
+      "end": 12.46,
+      "text": "You contribute 3% or $2400 a year.",
+      "words": [
+        {
+          "start": 8.9,
+          "end": 9.02,
+          "word": "You",
+          "probability": 0.9790923595428467
+        },
+        {
+          "start": 9.02,
+          "end": 9.26,
+          "word": "contribute",
+          "probability": 0.9891452789306641
+        },
+        {
+          "start": 9.26,
+          "end": 9.86,
+          "word": "3",
+          "probability": 0.8809144496917725
+        },
+        {
+          "start": 9.86,
+          "end": 10.32,
+          "word": "%",
+          "probability": 0.8111124038696289
+        },
+        {
+          "start": 10.32,
+          "end": 10.76,
+          "word": "or",
+          "probability": 0.900109589099884
+        },
+        {
+          "start": 10.76,
+          "end": 11.82,
+          "word": "$2400",
+          "probability": 0.8674491047859192
+        },
+        {
+          "start": 11.82,
+          "end": 12.2,
+          "word": "a",
+          "probability": 0.9833685755729675
+        },
+        {
+          "start": 12.2,
+          "end": 12.46,
+          "word": "year.",
+          "probability": 0.9989452958106995
+        }
+      ]
+    },
+    {
+      "start": 12.96,
+      "end": 14.78,
+      "text": "Your employer adds $1,200.",
+      "words": [
+        {
+          "start": 12.96,
+          "end": 13.18,
+          "word": "Your",
+          "probability": 0.9877710342407227
+        },
+        {
+          "start": 13.18,
+          "end": 13.52,
+          "word": "employer",
+          "probability": 0.9983548521995544
+        },
+        {
+          "start": 13.52,
+          "end": 14.04,
+          "word": "adds",
+          "probability": 0.9918666481971741
+        },
+        {
+          "start": 14.04,
+          "end": 14.34,
+          "word": "$1",
+          "probability": 0.6749405264854431
+        },
+        {
+          "start": 14.34,
+          "end": 14.78,
+          "word": ",200.",
+          "probability": 0.9938830435276031
+        }
+      ]
+    },
+    {
+      "start": 15.48,
+      "end": 16.5,
+      "text": "That sounds responsible.",
+      "words": [
+        {
+          "start": 15.48,
+          "end": 15.9,
+          "word": "That",
+          "probability": 0.9910127520561218
+        },
+        {
+          "start": 15.9,
+          "end": 16.12,
+          "word": "sounds",
+          "probability": 0.9966604709625244
+        },
+        {
+          "start": 16.12,
+          "end": 16.5,
+          "word": "responsible.",
+          "probability": 0.9903685450553894
+        }
+      ]
+    },
+    {
+      "start": 17.48,
+      "end": 18.86,
+      "text": "But under this example plan,",
+      "words": [
+        {
+          "start": 17.48,
+          "end": 17.5,
+          "word": "But",
+          "probability": 0.9841535687446594
+        },
+        {
+          "start": 17.5,
+          "end": 17.8,
+          "word": "under",
+          "probability": 0.981212317943573
+        },
+        {
+          "start": 17.8,
+          "end": 18.06,
+          "word": "this",
+          "probability": 0.9940531849861145
+        },
+        {
+          "start": 18.06,
+          "end": 18.38,
+          "word": "example",
+          "probability": 0.9826418161392212
+        },
+        {
+          "start": 18.38,
+          "end": 18.86,
+          "word": "plan,",
+          "probability": 0.9974598288536072
+        }
+      ]
+    },
+    {
+      "start": 19.16,
+      "end": 21.86,
+      "text": "the maximum employer match is $2,400.",
+      "words": [
+        {
+          "start": 19.16,
+          "end": 19.32,
+          "word": "the",
+          "probability": 0.9964359998703003
+        },
+        {
+          "start": 19.32,
+          "end": 19.76,
+          "word": "maximum",
+          "probability": 0.944764256477356
+        },
+        {
+          "start": 19.76,
+          "end": 20.26,
+          "word": "employer",
+          "probability": 0.9889287352561951
+        },
+        {
+          "start": 20.26,
+          "end": 20.62,
+          "word": "match",
+          "probability": 0.9874196648597717
+        },
+        {
+          "start": 20.62,
+          "end": 20.9,
+          "word": "is",
+          "probability": 0.9967588782310486
+        },
+        {
+          "start": 20.9,
+          "end": 21.22,
+          "word": "$2",
+          "probability": 0.6807246208190918
+        },
+        {
+          "start": 21.22,
+          "end": 21.86,
+          "word": ",400.",
+          "probability": 0.9980515241622925
+        }
+      ]
+    },
+    {
+      "start": 22.76,
+      "end": 26.14,
+      "text": "So you may be leaving $1,200 of employer compensation",
+      "words": [
+        {
+          "start": 22.76,
+          "end": 23.14,
+          "word": "So",
+          "probability": 0.9889923930168152
+        },
+        {
+          "start": 23.14,
+          "end": 23.28,
+          "word": "you",
+          "probability": 0.8365201950073242
+        },
+        {
+          "start": 23.28,
+          "end": 23.48,
+          "word": "may",
+          "probability": 0.9951773881912231
+        },
+        {
+          "start": 23.48,
+          "end": 23.64,
+          "word": "be",
+          "probability": 0.9977942705154419
+        },
+        {
+          "start": 23.64,
+          "end": 23.9,
+          "word": "leaving",
+          "probability": 0.9982256293296814
+        },
+        {
+          "start": 23.9,
+          "end": 24.24,
+          "word": "$1",
+          "probability": 0.9826043546199799
+        },
+        {
+          "start": 24.24,
+          "end": 24.78,
+          "word": ",200",
+          "probability": 0.9975133836269379
+        },
+        {
+          "start": 24.78,
+          "end": 25.3,
+          "word": "of",
+          "probability": 0.9922845363616943
+        },
+        {
+          "start": 25.3,
+          "end": 25.62,
+          "word": "employer",
+          "probability": 0.980686604976654
+        },
+        {
+          "start": 25.62,
+          "end": 26.14,
+          "word": "compensation",
+          "probability": 0.9992522597312927
+        }
+      ]
+    },
+    {
+      "start": 26.14,
+      "end": 28.42,
+      "text": "on the table every year.",
+      "words": [
+        {
+          "start": 26.14,
+          "end": 26.76,
+          "word": "on",
+          "probability": 0.9978371262550354
+        },
+        {
+          "start": 26.76,
+          "end": 26.9,
+          "word": "the",
+          "probability": 0.9985294342041016
+        },
+        {
+          "start": 26.9,
+          "end": 27.26,
+          "word": "table",
+          "probability": 0.9984744191169739
+        },
+        {
+          "start": 27.26,
+          "end": 27.86,
+          "word": "every",
+          "probability": 0.808185338973999
+        },
+        {
+          "start": 27.86,
+          "end": 28.42,
+          "word": "year.",
+          "probability": 0.999508261680603
+        }
+      ]
+    },
+    {
+      "start": 29.14,
+      "end": 32.0,
+      "text": "To understand why, we need to separate two numbers",
+      "words": [
+        {
+          "start": 28.919999999999998,
+          "end": 29.2,
+          "word": "To",
+          "probability": 0.3420861065387726
+        },
+        {
+          "start": 29.2,
+          "end": 29.44,
+          "word": "understand",
+          "probability": 0.9953240752220154
+        },
+        {
+          "start": 29.44,
+          "end": 30.04,
+          "word": "why,",
+          "probability": 0.9878288507461548
+        },
+        {
+          "start": 30.5,
+          "end": 30.6,
+          "word": "we",
+          "probability": 0.9925705790519714
+        },
+        {
+          "start": 30.6,
+          "end": 30.76,
+          "word": "need",
+          "probability": 0.9988827109336853
+        },
+        {
+          "start": 30.76,
+          "end": 30.9,
+          "word": "to",
+          "probability": 0.9985607266426086
+        },
+        {
+          "start": 30.9,
+          "end": 31.22,
+          "word": "separate",
+          "probability": 0.9931743741035461
+        },
+        {
+          "start": 31.22,
+          "end": 31.64,
+          "word": "two",
+          "probability": 0.9213679432868958
+        },
+        {
+          "start": 31.64,
+          "end": 32.0,
+          "word": "numbers",
+          "probability": 0.998506486415863
+        }
+      ]
+    },
+    {
+      "start": 32.0,
+      "end": 33.1,
+      "text": "that are often confused.",
+      "words": [
+        {
+          "start": 32.0,
+          "end": 32.26,
+          "word": "that",
+          "probability": 0.9970633387565613
+        },
+        {
+          "start": 32.26,
+          "end": 32.36,
+          "word": "are",
+          "probability": 0.9952651262283325
+        },
+        {
+          "start": 32.36,
+          "end": 32.72,
+          "word": "often",
+          "probability": 0.9973211884498596
+        },
+        {
+          "start": 32.72,
+          "end": 33.1,
+          "word": "confused.",
+          "probability": 0.9948922395706177
+        }
+      ]
+    },
+    {
+      "start": 33.9,
+      "end": 35.72,
+      "text": "The match rate and the match limit.",
+      "words": [
+        {
+          "start": 33.9,
+          "end": 34.0,
+          "word": "The",
+          "probability": 0.9585026502609253
+        },
+        {
+          "start": 34.0,
+          "end": 34.22,
+          "word": "match",
+          "probability": 0.6284987926483154
+        },
+        {
+          "start": 34.22,
+          "end": 34.5,
+          "word": "rate",
+          "probability": 0.979953408241272
+        },
+        {
+          "start": 34.5,
+          "end": 35.02,
+          "word": "and",
+          "probability": 0.7981621623039246
+        },
+        {
+          "start": 35.02,
+          "end": 35.14,
+          "word": "the",
+          "probability": 0.9869727492332458
+        },
+        {
+          "start": 35.14,
+          "end": 35.4,
+          "word": "match",
+          "probability": 0.993467390537262
+        },
+        {
+          "start": 35.4,
+          "end": 35.72,
+          "word": "limit.",
+          "probability": 0.9967896342277527
+        }
+      ]
+    },
+    {
+      "start": 36.46,
+      "end": 38.48,
+      "text": "The 50% is the match rate.",
+      "words": [
+        {
+          "start": 36.46,
+          "end": 36.66,
+          "word": "The",
+          "probability": 0.8191973567008972
+        },
+        {
+          "start": 36.66,
+          "end": 36.92,
+          "word": "50",
+          "probability": 0.9757319688796997
+        },
+        {
+          "start": 36.92,
+          "end": 37.38,
+          "word": "%",
+          "probability": 0.9164559245109558
+        },
+        {
+          "start": 37.38,
+          "end": 37.74,
+          "word": "is",
+          "probability": 0.9958279728889465
+        },
+        {
+          "start": 37.74,
+          "end": 37.88,
+          "word": "the",
+          "probability": 0.9973410964012146
+        },
+        {
+          "start": 37.88,
+          "end": 38.1,
+          "word": "match",
+          "probability": 0.9779550433158875
+        },
+        {
+          "start": 38.1,
+          "end": 38.48,
+          "word": "rate.",
+          "probability": 0.9903712868690491
+        }
+      ]
+    },
+    {
+      "start": 39.18,
+      "end": 41.1,
+      "text": "It tells you how much your employer contributes",
+      "words": [
+        {
+          "start": 39.18,
+          "end": 39.32,
+          "word": "It",
+          "probability": 0.9874797463417053
+        },
+        {
+          "start": 39.32,
+          "end": 39.54,
+          "word": "tells",
+          "probability": 0.9983811378479004
+        },
+        {
+          "start": 39.54,
+          "end": 39.76,
+          "word": "you",
+          "probability": 0.9946262240409851
+        },
+        {
+          "start": 39.76,
+          "end": 40.0,
+          "word": "how",
+          "probability": 0.9976492524147034
+        },
+        {
+          "start": 40.0,
+          "end": 40.18,
+          "word": "much",
+          "probability": 0.9995185136795044
+        },
+        {
+          "start": 40.18,
+          "end": 40.36,
+          "word": "your",
+          "probability": 0.9931312203407288
+        },
+        {
+          "start": 40.36,
+          "end": 40.7,
+          "word": "employer",
+          "probability": 0.9979856014251709
+        },
+        {
+          "start": 40.7,
+          "end": 41.1,
+          "word": "contributes",
+          "probability": 0.9975475668907166
+        }
+      ]
+    },
+    {
+      "start": 41.1,
+      "end": 43.42,
+      "text": "for each eligible dollar you contribute.",
+      "words": [
+        {
+          "start": 41.1,
+          "end": 41.62,
+          "word": "for",
+          "probability": 0.9957866072654724
+        },
+        {
+          "start": 41.62,
+          "end": 41.88,
+          "word": "each",
+          "probability": 0.999342143535614
+        },
+        {
+          "start": 41.88,
+          "end": 42.24,
+          "word": "eligible",
+          "probability": 0.9897685050964355
+        },
+        {
+          "start": 42.24,
+          "end": 42.86,
+          "word": "dollar",
+          "probability": 0.9855934977531433
+        },
+        {
+          "start": 42.86,
+          "end": 43.12,
+          "word": "you",
+          "probability": 0.9939524531364441
+        },
+        {
+          "start": 43.12,
+          "end": 43.42,
+          "word": "contribute.",
+          "probability": 0.998915433883667
+        }
+      ]
+    },
+    {
+      "start": 44.24,
+      "end": 46.76,
+      "text": "In this example, for every dollar you put in,",
+      "words": [
+        {
+          "start": 44.24,
+          "end": 44.38,
+          "word": "In",
+          "probability": 0.9971088767051697
+        },
+        {
+          "start": 44.38,
+          "end": 44.52,
+          "word": "this",
+          "probability": 0.9993002414703369
+        },
+        {
+          "start": 44.52,
+          "end": 44.86,
+          "word": "example,",
+          "probability": 0.998909592628479
+        },
+        {
+          "start": 45.24,
+          "end": 45.42,
+          "word": "for",
+          "probability": 0.9929153919219971
+        },
+        {
+          "start": 45.42,
+          "end": 45.7,
+          "word": "every",
+          "probability": 0.9944175481796265
+        },
+        {
+          "start": 45.7,
+          "end": 46.06,
+          "word": "dollar",
+          "probability": 0.9978066086769104
+        },
+        {
+          "start": 46.06,
+          "end": 46.36,
+          "word": "you",
+          "probability": 0.995107889175415
+        },
+        {
+          "start": 46.36,
+          "end": 46.56,
+          "word": "put",
+          "probability": 0.9989961981773376
+        },
+        {
+          "start": 46.56,
+          "end": 46.76,
+          "word": "in,",
+          "probability": 0.9969347715377808
+        }
+      ]
+    },
+    {
+      "start": 47.08,
+      "end": 48.72,
+      "text": "your employer adds 50 cents.",
+      "words": [
+        {
+          "start": 47.08,
+          "end": 47.18,
+          "word": "your",
+          "probability": 0.9879435300827026
+        },
+        {
+          "start": 47.18,
+          "end": 47.52,
+          "word": "employer",
+          "probability": 0.9984809756278992
+        },
+        {
+          "start": 47.52,
+          "end": 47.98,
+          "word": "adds",
+          "probability": 0.9894121289253235
+        },
+        {
+          "start": 47.98,
+          "end": 48.3,
+          "word": "50",
+          "probability": 0.902352511882782
+        },
+        {
+          "start": 48.3,
+          "end": 48.72,
+          "word": "cents.",
+          "probability": 0.9835378527641296
+        }
+      ]
+    },
+    {
+      "start": 49.5,
+      "end": 51.4,
+      "text": "The 6% is the match limit.",
+      "words": [
+        {
+          "start": 49.5,
+          "end": 49.6,
+          "word": "The",
+          "probability": 0.9715853929519653
+        },
+        {
+          "start": 49.6,
+          "end": 49.86,
+          "word": "6",
+          "probability": 0.9573367834091187
+        },
+        {
+          "start": 49.86,
+          "end": 50.26,
+          "word": "%",
+          "probability": 0.9863303899765015
+        },
+        {
+          "start": 50.26,
+          "end": 50.62,
+          "word": "is",
+          "probability": 0.998330295085907
+        },
+        {
+          "start": 50.62,
+          "end": 50.76,
+          "word": "the",
+          "probability": 0.9982593655586243
+        },
+        {
+          "start": 50.76,
+          "end": 51.02,
+          "word": "match",
+          "probability": 0.9803358912467957
+        },
+        {
+          "start": 51.02,
+          "end": 51.4,
+          "word": "limit.",
+          "probability": 0.9957417249679565
+        }
+      ]
+    },
+    {
+      "start": 52.02,
+      "end": 54.64,
+      "text": "It tells you how much of your salary can be considered",
+      "words": [
+        {
+          "start": 52.02,
+          "end": 52.28,
+          "word": "It",
+          "probability": 0.9980328679084778
+        },
+        {
+          "start": 52.28,
+          "end": 52.48,
+          "word": "tells",
+          "probability": 0.9978858828544617
+        },
+        {
+          "start": 52.48,
+          "end": 52.72,
+          "word": "you",
+          "probability": 0.996674656867981
+        },
+        {
+          "start": 52.72,
+          "end": 52.96,
+          "word": "how",
+          "probability": 0.9993053674697876
+        },
+        {
+          "start": 52.96,
+          "end": 53.14,
+          "word": "much",
+          "probability": 0.9993875026702881
+        },
+        {
+          "start": 53.14,
+          "end": 53.3,
+          "word": "of",
+          "probability": 0.9955804944038391
+        },
+        {
+          "start": 53.3,
+          "end": 53.42,
+          "word": "your",
+          "probability": 0.9949776530265808
+        },
+        {
+          "start": 53.42,
+          "end": 53.7,
+          "word": "salary",
+          "probability": 0.9988901019096375
+        },
+        {
+          "start": 53.7,
+          "end": 54.06,
+          "word": "can",
+          "probability": 0.9976897239685059
+        },
+        {
+          "start": 54.06,
+          "end": 54.2,
+          "word": "be",
+          "probability": 0.9996198415756226
+        },
+        {
+          "start": 54.2,
+          "end": 54.64,
+          "word": "considered",
+          "probability": 0.9964151382446289
+        }
+      ]
+    },
+    {
+      "start": 54.64,
+      "end": 55.96,
+      "text": "when calculating the match.",
+      "words": [
+        {
+          "start": 54.64,
+          "end": 54.96,
+          "word": "when",
+          "probability": 0.9944353103637695
+        },
+        {
+          "start": 54.96,
+          "end": 55.34,
+          "word": "calculating",
+          "probability": 0.9990649819374084
+        },
+        {
+          "start": 55.34,
+          "end": 55.74,
+          "word": "the",
+          "probability": 0.9981505274772644
+        },
+        {
+          "start": 55.74,
+          "end": 55.96,
+          "word": "match.",
+          "probability": 0.9986672401428223
+        }
+      ]
+    },
+    {
+      "start": 56.68,
+      "end": 59.52,
+      "text": "It does not mean your employer automatically contributes",
+      "words": [
+        {
+          "start": 56.42,
+          "end": 56.76,
+          "word": "It",
+          "probability": 0.6783939599990845
+        },
+        {
+          "start": 56.76,
+          "end": 56.94,
+          "word": "does",
+          "probability": 0.9597837924957275
+        },
+        {
+          "start": 56.94,
+          "end": 57.22,
+          "word": "not",
+          "probability": 0.9838805794715881
+        },
+        {
+          "start": 57.22,
+          "end": 57.54,
+          "word": "mean",
+          "probability": 0.9989147186279297
+        },
+        {
+          "start": 57.54,
+          "end": 57.72,
+          "word": "your",
+          "probability": 0.9599769711494446
+        },
+        {
+          "start": 57.72,
+          "end": 58.08,
+          "word": "employer",
+          "probability": 0.9945611357688904
+        },
+        {
+          "start": 58.08,
+          "end": 58.78,
+          "word": "automatically",
+          "probability": 0.997434675693512
+        },
+        {
+          "start": 58.78,
+          "end": 59.52,
+          "word": "contributes",
+          "probability": 0.9934665560722351
+        }
+      ]
+    },
+    {
+      "start": 59.52,
+      "end": 60.86,
+      "text": "6% of your salary.",
+      "words": [
+        {
+          "start": 59.52,
+          "end": 59.86,
+          "word": "6",
+          "probability": 0.8799337148666382
+        },
+        {
+          "start": 59.86,
+          "end": 60.28,
+          "word": "%",
+          "probability": 0.9056217670440674
+        },
+        {
+          "start": 60.28,
+          "end": 60.44,
+          "word": "of",
+          "probability": 0.9965026378631592
+        },
+        {
+          "start": 60.44,
+          "end": 60.54,
+          "word": "your",
+          "probability": 0.9937261939048767
+        },
+        {
+          "start": 60.54,
+          "end": 60.86,
+          "word": "salary.",
+          "probability": 0.9984338879585266
+        }
+      ]
+    },
+    {
+      "start": 61.54,
+      "end": 64.26,
+      "text": "And it does not mean you receive a 50% return",
+      "words": [
+        {
+          "start": 61.54,
+          "end": 61.64,
+          "word": "And",
+          "probability": 0.9534037709236145
+        },
+        {
+          "start": 61.64,
+          "end": 61.74,
+          "word": "it",
+          "probability": 0.9669387936592102
+        },
+        {
+          "start": 61.74,
+          "end": 61.9,
+          "word": "does",
+          "probability": 0.9902751445770264
+        },
+        {
+          "start": 61.9,
+          "end": 62.16,
+          "word": "not",
+          "probability": 0.9948124885559082
+        },
+        {
+          "start": 62.16,
+          "end": 62.48,
+          "word": "mean",
+          "probability": 0.9992688298225403
+        },
+        {
+          "start": 62.48,
+          "end": 62.66,
+          "word": "you",
+          "probability": 0.9890038371086121
+        },
+        {
+          "start": 62.66,
+          "end": 62.88,
+          "word": "receive",
+          "probability": 0.9907122254371643
+        },
+        {
+          "start": 62.88,
+          "end": 63.16,
+          "word": "a",
+          "probability": 0.9921038150787354
+        },
+        {
+          "start": 63.16,
+          "end": 63.42,
+          "word": "50",
+          "probability": 0.988092303276062
+        },
+        {
+          "start": 63.42,
+          "end": 63.84,
+          "word": "%",
+          "probability": 0.9824846386909485
+        },
+        {
+          "start": 63.84,
+          "end": 64.26,
+          "word": "return",
+          "probability": 0.9970910549163818
+        }
+      ]
+    },
+    {
+      "start": 64.26,
+      "end": 65.68,
+      "text": "on your entire salary.",
+      "words": [
+        {
+          "start": 64.26,
+          "end": 64.6,
+          "word": "on",
+          "probability": 0.997934103012085
+        },
+        {
+          "start": 64.6,
+          "end": 64.78,
+          "word": "your",
+          "probability": 0.9971131086349487
+        },
+        {
+          "start": 64.78,
+          "end": 64.98,
+          "word": "entire",
+          "probability": 0.9945388436317444
+        },
+        {
+          "start": 64.98,
+          "end": 65.68,
+          "word": "salary.",
+          "probability": 0.9972862005233765
+        }
+      ]
+    },
+    {
+      "start": 66.36,
+      "end": 70.4,
+      "text": "With an $80,000 salary, 6% equals $4,800.",
+      "words": [
+        {
+          "start": 66.36,
+          "end": 66.48,
+          "word": "With",
+          "probability": 0.976346492767334
+        },
+        {
+          "start": 66.48,
+          "end": 66.6,
+          "word": "an",
+          "probability": 0.9945499300956726
+        },
+        {
+          "start": 66.6,
+          "end": 66.94,
+          "word": "$80",
+          "probability": 0.9675812423229218
+        },
+        {
+          "start": 66.94,
+          "end": 67.36,
+          "word": ",000",
+          "probability": 0.9894468784332275
+        },
+        {
+          "start": 67.36,
+          "end": 67.98,
+          "word": "salary,",
+          "probability": 0.97679203748703
+        },
+        {
+          "start": 68.44,
+          "end": 68.64,
+          "word": "6",
+          "probability": 0.8738985657691956
+        },
+        {
+          "start": 68.64,
+          "end": 69.14,
+          "word": "%",
+          "probability": 0.9707998633384705
+        },
+        {
+          "start": 69.14,
+          "end": 69.48,
+          "word": "equals",
+          "probability": 0.8575496077537537
+        },
+        {
+          "start": 69.48,
+          "end": 69.84,
+          "word": "$4",
+          "probability": 0.6849803626537323
+        },
+        {
+          "start": 69.84,
+          "end": 70.4,
+          "word": ",800.",
+          "probability": 0.994178980588913
+        }
+      ]
+    },
+    {
+      "start": 71.2,
+      "end": 74.52,
+      "text": "That is the maximum amount of your own annual contribution",
+      "words": [
+        {
+          "start": 71.2,
+          "end": 71.68,
+          "word": "That",
+          "probability": 0.9964955449104309
+        },
+        {
+          "start": 71.68,
+          "end": 71.9,
+          "word": "is",
+          "probability": 0.9956613183021545
+        },
+        {
+          "start": 71.9,
+          "end": 72.06,
+          "word": "the",
+          "probability": 0.9980819225311279
+        },
+        {
+          "start": 72.06,
+          "end": 72.36,
+          "word": "maximum",
+          "probability": 0.9985826015472412
+        },
+        {
+          "start": 72.36,
+          "end": 72.92,
+          "word": "amount",
+          "probability": 0.9997021555900574
+        },
+        {
+          "start": 72.92,
+          "end": 73.14,
+          "word": "of",
+          "probability": 0.9991718530654907
+        },
+        {
+          "start": 73.14,
+          "end": 73.24,
+          "word": "your",
+          "probability": 0.9967015385627747
+        },
+        {
+          "start": 73.24,
+          "end": 73.5,
+          "word": "own",
+          "probability": 0.9907487034797668
+        },
+        {
+          "start": 73.5,
+          "end": 73.92,
+          "word": "annual",
+          "probability": 0.9944021105766296
+        },
+        {
+          "start": 73.92,
+          "end": 74.52,
+          "word": "contribution",
+          "probability": 0.9982489347457886
+        }
+      ]
+    },
+    {
+      "start": 74.52,
+      "end": 76.64,
+      "text": "eligible for this particular match.",
+      "words": [
+        {
+          "start": 74.52,
+          "end": 75.02,
+          "word": "eligible",
+          "probability": 0.9925884008407593
+        },
+        {
+          "start": 75.02,
+          "end": 75.6,
+          "word": "for",
+          "probability": 0.9990938901901245
+        },
+        {
+          "start": 75.6,
+          "end": 75.82,
+          "word": "this",
+          "probability": 0.9982026815414429
+        },
+        {
+          "start": 75.82,
+          "end": 76.2,
+          "word": "particular",
+          "probability": 0.9982807636260986
+        },
+        {
+          "start": 76.2,
+          "end": 76.64,
+          "word": "match.",
+          "probability": 0.995378851890564
+        }
+      ]
+    },
+    {
+      "start": 77.36,
+      "end": 80.16,
+      "text": "The employer then matches 50% of that amount.",
+      "words": [
+        {
+          "start": 77.36,
+          "end": 77.46,
+          "word": "The",
+          "probability": 0.9968588352203369
+        },
+        {
+          "start": 77.46,
+          "end": 77.88,
+          "word": "employer",
+          "probability": 0.9965204000473022
+        },
+        {
+          "start": 77.88,
+          "end": 78.26,
+          "word": "then",
+          "probability": 0.9939404726028442
+        },
+        {
+          "start": 78.26,
+          "end": 78.64,
+          "word": "matches",
+          "probability": 0.9963040351867676
+        },
+        {
+          "start": 78.64,
+          "end": 79.02,
+          "word": "50",
+          "probability": 0.9939326643943787
+        },
+        {
+          "start": 79.02,
+          "end": 79.54,
+          "word": "%",
+          "probability": 0.994268536567688
+        },
+        {
+          "start": 79.54,
+          "end": 79.78,
+          "word": "of",
+          "probability": 0.9977114200592041
+        },
+        {
+          "start": 79.78,
+          "end": 79.92,
+          "word": "that",
+          "probability": 0.9954452514648438
+        },
+        {
+          "start": 79.92,
+          "end": 80.16,
+          "word": "amount.",
+          "probability": 0.99882572889328
+        }
+      ]
+    },
+    {
+      "start": 80.88,
+      "end": 85.42,
+      "text": "$4,800 multiplied by 50% equals $2400.",
+      "words": [
+        {
+          "start": 80.7,
+          "end": 81.14,
+          "word": "$4",
+          "probability": 0.19762497767806053
+        },
+        {
+          "start": 81.14,
+          "end": 81.68,
+          "word": ",800",
+          "probability": 0.8958142697811127
+        },
+        {
+          "start": 81.68,
+          "end": 82.52,
+          "word": "multiplied",
+          "probability": 0.601020872592926
+        },
+        {
+          "start": 82.52,
+          "end": 83.02,
+          "word": "by",
+          "probability": 0.9918012022972107
+        },
+        {
+          "start": 83.02,
+          "end": 83.28,
+          "word": "50",
+          "probability": 0.9679428339004517
+        },
+        {
+          "start": 83.28,
+          "end": 83.88,
+          "word": "%",
+          "probability": 0.9016368985176086
+        },
+        {
+          "start": 83.88,
+          "end": 84.28,
+          "word": "equals",
+          "probability": 0.7744401097297668
+        },
+        {
+          "start": 84.28,
+          "end": 85.42,
+          "word": "$2400.",
+          "probability": 0.8665347496668497
+        }
+      ]
+    },
+    {
+      "start": 86.1,
+      "end": 89.72,
+      "text": "That is the maximum annual employer match in this example.",
+      "words": [
+        {
+          "start": 86.1,
+          "end": 86.6,
+          "word": "That",
+          "probability": 0.946550190448761
+        },
+        {
+          "start": 86.6,
+          "end": 86.88,
+          "word": "is",
+          "probability": 0.9780619144439697
+        },
+        {
+          "start": 86.88,
+          "end": 87.04,
+          "word": "the",
+          "probability": 0.9958360195159912
+        },
+        {
+          "start": 87.04,
+          "end": 87.52,
+          "word": "maximum",
+          "probability": 0.9755128622055054
+        },
+        {
+          "start": 87.52,
+          "end": 87.92,
+          "word": "annual",
+          "probability": 0.9618752002716064
+        },
+        {
+          "start": 87.92,
+          "end": 88.54,
+          "word": "employer",
+          "probability": 0.9830051064491272
+        },
+        {
+          "start": 88.54,
+          "end": 88.8,
+          "word": "match",
+          "probability": 0.9900718927383423
+        },
+        {
+          "start": 88.8,
+          "end": 89.12,
+          "word": "in",
+          "probability": 0.9858711361885071
+        },
+        {
+          "start": 89.12,
+          "end": 89.34,
+          "word": "this",
+          "probability": 0.9963656663894653
+        },
+        {
+          "start": 89.34,
+          "end": 89.72,
+          "word": "example.",
+          "probability": 0.9971011281013489
+        }
+      ]
+    },
+    {
+      "start": 90.48,
+      "end": 92.64,
+      "text": "Now let's compare three contribution rates.",
+      "words": [
+        {
+          "start": 90.48,
+          "end": 90.68,
+          "word": "Now",
+          "probability": 0.9734665751457214
+        },
+        {
+          "start": 90.68,
+          "end": 90.96,
+          "word": "let's",
+          "probability": 0.8954055607318878
+        },
+        {
+          "start": 90.96,
+          "end": 91.22,
+          "word": "compare",
+          "probability": 0.9989450573921204
+        },
+        {
+          "start": 91.22,
+          "end": 91.66,
+          "word": "three",
+          "probability": 0.8692252039909363
+        },
+        {
+          "start": 91.66,
+          "end": 92.1,
+          "word": "contribution",
+          "probability": 0.9795056581497192
+        },
+        {
+          "start": 92.1,
+          "end": 92.64,
+          "word": "rates.",
+          "probability": 0.9964458346366882
+        }
+      ]
+    },
+    {
+      "start": 93.24,
+      "end": 96.16,
+      "text": "3%, 6% and 10%.",
+      "words": [
+        {
+          "start": 93.24,
+          "end": 93.78,
+          "word": "3%,",
+          "probability": 0.7656204402446747
+        },
+        {
+          "start": 93.78,
+          "end": 94.38,
+          "word": "6",
+          "probability": 0.9893791079521179
+        },
+        {
+          "start": 94.38,
+          "end": 94.78,
+          "word": "%",
+          "probability": 0.7183777689933777
+        },
+        {
+          "start": 94.78,
+          "end": 95.24,
+          "word": "and",
+          "probability": 0.9930078983306885
+        },
+        {
+          "start": 95.24,
+          "end": 96.16,
+          "word": "10%.",
+          "probability": 0.9757398664951324
+        }
+      ]
+    },
+    {
+      "start": 96.16,
+      "end": 99.26,
+      "text": "At 3%, you contribute $2400.",
+      "words": [
+        {
+          "start": 96.16,
+          "end": 96.62,
+          "word": "At",
+          "probability": 0.9901997447013855
+        },
+        {
+          "start": 96.62,
+          "end": 97.4,
+          "word": "3%,",
+          "probability": 0.8939951062202454
+        },
+        {
+          "start": 97.4,
+          "end": 97.76,
+          "word": "you",
+          "probability": 0.9957977533340454
+        },
+        {
+          "start": 97.76,
+          "end": 97.98,
+          "word": "contribute",
+          "probability": 0.9968259334564209
+        },
+        {
+          "start": 97.98,
+          "end": 99.26,
+          "word": "$2400.",
+          "probability": 0.9929817716280619
+        }
+      ]
+    },
+    {
+      "start": 99.98,
+      "end": 102.04,
+      "text": "Your employer contributes $1,200.",
+      "words": [
+        {
+          "start": 99.98,
+          "end": 100.34,
+          "word": "Your",
+          "probability": 0.9836259484291077
+        },
+        {
+          "start": 100.34,
+          "end": 100.66,
+          "word": "employer",
+          "probability": 0.9967136383056641
+        },
+        {
+          "start": 100.66,
+          "end": 101.14,
+          "word": "contributes",
+          "probability": 0.9972097277641296
+        },
+        {
+          "start": 101.14,
+          "end": 101.64,
+          "word": "$1",
+          "probability": 0.6226707622408867
+        },
+        {
+          "start": 101.64,
+          "end": 102.04,
+          "word": ",200.",
+          "probability": 0.9926903545856476
+        }
+      ]
+    },
+    {
+      "start": 102.96,
+      "end": 105.8,
+      "text": "The total entering your account is $3,600.",
+      "words": [
+        {
+          "start": 102.96,
+          "end": 103.14,
+          "word": "The",
+          "probability": 0.9959259033203125
+        },
+        {
+          "start": 103.14,
+          "end": 103.36,
+          "word": "total",
+          "probability": 0.9996447563171387
+        },
+        {
+          "start": 103.36,
+          "end": 103.8,
+          "word": "entering",
+          "probability": 0.9944247007369995
+        },
+        {
+          "start": 103.8,
+          "end": 104.1,
+          "word": "your",
+          "probability": 0.9945388436317444
+        },
+        {
+          "start": 104.1,
+          "end": 104.44,
+          "word": "account",
+          "probability": 0.99774569272995
+        },
+        {
+          "start": 104.44,
+          "end": 104.82,
+          "word": "is",
+          "probability": 0.9972783923149109
+        },
+        {
+          "start": 104.82,
+          "end": 105.16,
+          "word": "$3",
+          "probability": 0.9246464371681213
+        },
+        {
+          "start": 105.16,
+          "end": 105.8,
+          "word": ",600.",
+          "probability": 0.9991604089736938
+        }
+      ]
+    },
+    {
+      "start": 106.82,
+      "end": 108.94,
+      "text": "Increase your contribution to 4%",
+      "words": [
+        {
+          "start": 106.82,
+          "end": 107.14,
+          "word": "Increase",
+          "probability": 0.9851991534233093
+        },
+        {
+          "start": 107.14,
+          "end": 107.44,
+          "word": "your",
+          "probability": 0.9969096779823303
+        },
+        {
+          "start": 107.44,
+          "end": 107.74,
+          "word": "contribution",
+          "probability": 0.9932236671447754
+        },
+        {
+          "start": 107.74,
+          "end": 108.24,
+          "word": "to",
+          "probability": 0.9987180233001709
+        },
+        {
+          "start": 108.24,
+          "end": 108.54,
+          "word": "4",
+          "probability": 0.9880775213241577
+        },
+        {
+          "start": 108.54,
+          "end": 108.94,
+          "word": "%",
+          "probability": 0.756434440612793
+        }
+      ]
+    },
+    {
+      "start": 108.94,
+      "end": 111.04,
+      "text": "and your employer match also increases.",
+      "words": [
+        {
+          "start": 108.94,
+          "end": 109.04,
+          "word": "and",
+          "probability": 0.5194205641746521
+        },
+        {
+          "start": 109.04,
+          "end": 109.5,
+          "word": "your",
+          "probability": 0.9726846814155579
+        },
+        {
+          "start": 109.5,
+          "end": 109.82,
+          "word": "employer",
+          "probability": 0.985511064529419
+        },
+        {
+          "start": 109.82,
+          "end": 110.2,
+          "word": "match",
+          "probability": 0.9675779938697815
+        },
+        {
+          "start": 110.2,
+          "end": 110.52,
+          "word": "also",
+          "probability": 0.9917382597923279
+        },
+        {
+          "start": 110.52,
+          "end": 111.04,
+          "word": "increases.",
+          "probability": 0.9988551139831543
+        }
+      ]
+    },
+    {
+      "start": 111.94,
+      "end": 113.86,
+      "text": "The same happens at 5%.",
+      "words": [
+        {
+          "start": 111.94,
+          "end": 112.04,
+          "word": "The",
+          "probability": 0.8132443428039551
+        },
+        {
+          "start": 112.04,
+          "end": 112.24,
+          "word": "same",
+          "probability": 0.998729407787323
+        },
+        {
+          "start": 112.24,
+          "end": 112.66,
+          "word": "happens",
+          "probability": 0.9991258978843689
+        },
+        {
+          "start": 112.66,
+          "end": 112.94,
+          "word": "at",
+          "probability": 0.9962582588195801
+        },
+        {
+          "start": 112.94,
+          "end": 113.86,
+          "word": "5%.",
+          "probability": 0.8974539637565613
+        }
+      ]
+    },
+    {
+      "start": 113.86,
+      "end": 117.04,
+      "text": "At 6%, you contribute $4,800.",
+      "words": [
+        {
+          "start": 113.86,
+          "end": 114.4,
+          "word": "At",
+          "probability": 0.9782368540763855
+        },
+        {
+          "start": 114.4,
+          "end": 115.18,
+          "word": "6%,",
+          "probability": 0.8753825426101685
+        },
+        {
+          "start": 115.18,
+          "end": 115.58,
+          "word": "you",
+          "probability": 0.9932852983474731
+        },
+        {
+          "start": 115.58,
+          "end": 115.82,
+          "word": "contribute",
+          "probability": 0.9982376098632812
+        },
+        {
+          "start": 115.82,
+          "end": 116.46,
+          "word": "$4",
+          "probability": 0.7883433103561401
+        },
+        {
+          "start": 116.46,
+          "end": 117.04,
+          "word": ",800.",
+          "probability": 0.9922522008419037
+        }
+      ]
+    },
+    {
+      "start": 117.92,
+      "end": 120.2,
+      "text": "Your employer contributes $2400.",
+      "words": [
+        {
+          "start": 117.92,
+          "end": 118.18,
+          "word": "Your",
+          "probability": 0.9826630353927612
+        },
+        {
+          "start": 118.18,
+          "end": 118.52,
+          "word": "employer",
+          "probability": 0.9988322854042053
+        },
+        {
+          "start": 118.52,
+          "end": 118.94,
+          "word": "contributes",
+          "probability": 0.9976523518562317
+        },
+        {
+          "start": 118.94,
+          "end": 120.2,
+          "word": "$2400.",
+          "probability": 0.7990460197130839
+        }
+      ]
+    },
+    {
+      "start": 120.96,
+      "end": 124.0,
+      "text": "The total annual contribution becomes $7,200.",
+      "words": [
+        {
+          "start": 120.96,
+          "end": 121.26,
+          "word": "The",
+          "probability": 0.9938947558403015
+        },
+        {
+          "start": 121.26,
+          "end": 121.48,
+          "word": "total",
+          "probability": 0.9960981607437134
+        },
+        {
+          "start": 121.48,
+          "end": 121.94,
+          "word": "annual",
+          "probability": 0.9982125759124756
+        },
+        {
+          "start": 121.94,
+          "end": 122.54,
+          "word": "contribution",
+          "probability": 0.9974894523620605
+        },
+        {
+          "start": 122.54,
+          "end": 123.04,
+          "word": "becomes",
+          "probability": 0.9511646032333374
+        },
+        {
+          "start": 123.04,
+          "end": 123.64,
+          "word": "$7",
+          "probability": 0.9712414443492889
+        },
+        {
+          "start": 123.64,
+          "end": 124.0,
+          "word": ",200.",
+          "probability": 0.9804043769836426
+        }
+      ]
+    },
+    {
+      "start": 125.16,
+      "end": 128.04,
+      "text": "At this point, you have captured the full employer",
+      "words": [
+        {
+          "start": 125.16,
+          "end": 125.56,
+          "word": "At",
+          "probability": 0.9977051615715027
+        },
+        {
+          "start": 125.56,
+          "end": 125.72,
+          "word": "this",
+          "probability": 0.9994860887527466
+        },
+        {
+          "start": 125.72,
+          "end": 126.02,
+          "word": "point,",
+          "probability": 0.9997144341468811
+        },
+        {
+          "start": 126.34,
+          "end": 126.48,
+          "word": "you",
+          "probability": 0.998052716255188
+        },
+        {
+          "start": 126.48,
+          "end": 126.6,
+          "word": "have",
+          "probability": 0.9866405129432678
+        },
+        {
+          "start": 126.6,
+          "end": 126.94,
+          "word": "captured",
+          "probability": 0.9985356330871582
+        },
+        {
+          "start": 126.94,
+          "end": 127.18,
+          "word": "the",
+          "probability": 0.9986701011657715
+        },
+        {
+          "start": 127.18,
+          "end": 127.46,
+          "word": "full",
+          "probability": 0.9954354166984558
+        },
+        {
+          "start": 127.46,
+          "end": 128.04,
+          "word": "employer",
+          "probability": 0.9815084338188171
+        }
+      ]
+    },
+    {
+      "start": 128.04,
+      "end": 130.28,
+      "text": "match available under this example formula.",
+      "words": [
+        {
+          "start": 128.04,
+          "end": 128.28,
+          "word": "match",
+          "probability": 0.9850112795829773
+        },
+        {
+          "start": 128.28,
+          "end": 128.62,
+          "word": "available",
+          "probability": 0.9990431666374207
+        },
+        {
+          "start": 128.62,
+          "end": 129.14,
+          "word": "under",
+          "probability": 0.9984726309776306
+        },
+        {
+          "start": 129.14,
+          "end": 129.48,
+          "word": "this",
+          "probability": 0.9982016086578369
+        },
+        {
+          "start": 129.48,
+          "end": 129.8,
+          "word": "example",
+          "probability": 0.9953625202178955
+        },
+        {
+          "start": 129.8,
+          "end": 130.28,
+          "word": "formula.",
+          "probability": 0.9982258677482605
+        }
+      ]
+    },
+    {
+      "start": 131.0,
+      "end": 132.72,
+      "text": "But what happens if you contribute more?",
+      "words": [
+        {
+          "start": 131.0,
+          "end": 131.14,
+          "word": "But",
+          "probability": 0.9922446608543396
+        },
+        {
+          "start": 131.14,
+          "end": 131.3,
+          "word": "what",
+          "probability": 0.9586737155914307
+        },
+        {
+          "start": 131.3,
+          "end": 131.6,
+          "word": "happens",
+          "probability": 0.9993014335632324
+        },
+        {
+          "start": 131.6,
+          "end": 131.84,
+          "word": "if",
+          "probability": 0.9974134564399719
+        },
+        {
+          "start": 131.84,
+          "end": 131.94,
+          "word": "you",
+          "probability": 0.9997332692146301
+        },
+        {
+          "start": 131.94,
+          "end": 132.2,
+          "word": "contribute",
+          "probability": 0.9988607168197632
+        },
+        {
+          "start": 132.2,
+          "end": 132.72,
+          "word": "more?",
+          "probability": 0.9994850158691406
+        }
+      ]
+    },
+    {
+      "start": 133.26,
+      "end": 136.08,
+      "text": "At 10%, you contribute $8,000.",
+      "words": [
+        {
+          "start": 133.26,
+          "end": 133.58,
+          "word": "At",
+          "probability": 0.9916252493858337
+        },
+        {
+          "start": 133.58,
+          "end": 134.2,
+          "word": "10%,",
+          "probability": 0.9220004677772522
+        },
+        {
+          "start": 134.2,
+          "end": 134.7,
+          "word": "you",
+          "probability": 0.9988283514976501
+        },
+        {
+          "start": 134.7,
+          "end": 134.94,
+          "word": "contribute",
+          "probability": 0.9980998635292053
+        },
+        {
+          "start": 134.94,
+          "end": 135.58,
+          "word": "$8",
+          "probability": 0.9148446917533875
+        },
+        {
+          "start": 135.58,
+          "end": 136.08,
+          "word": ",000.",
+          "probability": 0.9945208430290222
+        }
+      ]
+    },
+    {
+      "start": 136.96,
+      "end": 139.52,
+      "text": "Your employer still contributes $2400",
+      "words": [
+        {
+          "start": 136.72,
+          "end": 137.14,
+          "word": "Your",
+          "probability": 0.26385194063186646
+        },
+        {
+          "start": 137.14,
+          "end": 137.48,
+          "word": "employer",
+          "probability": 0.9107953310012817
+        },
+        {
+          "start": 137.48,
+          "end": 137.96,
+          "word": "still",
+          "probability": 0.9909659624099731
+        },
+        {
+          "start": 137.96,
+          "end": 138.52,
+          "word": "contributes",
+          "probability": 0.994452178478241
+        },
+        {
+          "start": 138.52,
+          "end": 139.52,
+          "word": "$2400",
+          "probability": 0.877329428990682
+        }
+      ]
+    },
+    {
+      "start": 140.08,
+      "end": 142.62,
+      "text": "because the match reached its limit at 6%.",
+      "words": [
+        {
+          "start": 139.84,
+          "end": 140.26,
+          "word": "because",
+          "probability": 0.7605605721473694
+        },
+        {
+          "start": 140.26,
+          "end": 140.52,
+          "word": "the",
+          "probability": 0.9954146146774292
+        },
+        {
+          "start": 140.52,
+          "end": 140.82,
+          "word": "match",
+          "probability": 0.9747368693351746
+        },
+        {
+          "start": 140.82,
+          "end": 141.12,
+          "word": "reached",
+          "probability": 0.9902753829956055
+        },
+        {
+          "start": 141.12,
+          "end": 141.42,
+          "word": "its",
+          "probability": 0.9524925947189331
+        },
+        {
+          "start": 141.42,
+          "end": 141.7,
+          "word": "limit",
+          "probability": 0.9924166202545166
+        },
+        {
+          "start": 141.7,
+          "end": 141.92,
+          "word": "at",
+          "probability": 0.9952444434165955
+        },
+        {
+          "start": 141.92,
+          "end": 142.62,
+          "word": "6%.",
+          "probability": 0.9444441199302673
+        }
+      ]
+    },
+    {
+      "start": 143.20000000000002,
+      "end": 146.58,
+      "text": "Your total annual contribution becomes $10,400.",
+      "words": [
+        {
+          "start": 142.96,
+          "end": 143.38,
+          "word": "Your",
+          "probability": 0.991064190864563
+        },
+        {
+          "start": 143.38,
+          "end": 143.66,
+          "word": "total",
+          "probability": 0.9946405291557312
+        },
+        {
+          "start": 143.66,
+          "end": 144.08,
+          "word": "annual",
+          "probability": 0.9970118999481201
+        },
+        {
+          "start": 144.08,
+          "end": 144.58,
+          "word": "contribution",
+          "probability": 0.9967376589775085
+        },
+        {
+          "start": 144.58,
+          "end": 145.24,
+          "word": "becomes",
+          "probability": 0.9934171438217163
+        },
+        {
+          "start": 145.24,
+          "end": 145.76,
+          "word": "$10",
+          "probability": 0.969528079032898
+        },
+        {
+          "start": 145.76,
+          "end": 146.58,
+          "word": ",400.",
+          "probability": 0.9709437191486359
+        }
+      ]
+    },
+    {
+      "start": 147.68,
+      "end": 151.68,
+      "text": "Your personal contribution can continue growing after 6%.",
+      "words": [
+        {
+          "start": 147.68,
+          "end": 148.08,
+          "word": "Your",
+          "probability": 0.9932819604873657
+        },
+        {
+          "start": 148.08,
+          "end": 148.46,
+          "word": "personal",
+          "probability": 0.993617057800293
+        },
+        {
+          "start": 148.46,
+          "end": 148.92,
+          "word": "contribution",
+          "probability": 0.9977317452430725
+        },
+        {
+          "start": 148.92,
+          "end": 149.4,
+          "word": "can",
+          "probability": 0.9979206919670105
+        },
+        {
+          "start": 149.4,
+          "end": 149.82,
+          "word": "continue",
+          "probability": 0.9979841709136963
+        },
+        {
+          "start": 149.82,
+          "end": 150.26,
+          "word": "growing",
+          "probability": 0.9961395859718323
+        },
+        {
+          "start": 150.26,
+          "end": 150.68,
+          "word": "after",
+          "probability": 0.9985097050666809
+        },
+        {
+          "start": 150.68,
+          "end": 151.68,
+          "word": "6%.",
+          "probability": 0.9775550961494446
+        }
+      ]
+    },
+    {
+      "start": 151.68,
+      "end": 153.56,
+      "text": "The employer match does not.",
+      "words": [
+        {
+          "start": 151.68,
+          "end": 152.2,
+          "word": "The",
+          "probability": 0.8816498517990112
+        },
+        {
+          "start": 152.2,
+          "end": 152.52,
+          "word": "employer",
+          "probability": 0.9935883283615112
+        },
+        {
+          "start": 152.52,
+          "end": 152.9,
+          "word": "match",
+          "probability": 0.9776932597160339
+        },
+        {
+          "start": 152.9,
+          "end": 153.28,
+          "word": "does",
+          "probability": 0.9893993735313416
+        },
+        {
+          "start": 153.28,
+          "end": 153.56,
+          "word": "not.",
+          "probability": 0.9989503026008606
+        }
+      ]
+    },
+    {
+      "start": 154.02,
+      "end": 155.24,
+      "text": "This distinction matters.",
+      "words": [
+        {
+          "start": 154.02,
+          "end": 154.16,
+          "word": "This",
+          "probability": 0.8740584254264832
+        },
+        {
+          "start": 154.16,
+          "end": 154.66,
+          "word": "distinction",
+          "probability": 0.9943466782569885
+        },
+        {
+          "start": 154.66,
+          "end": 155.24,
+          "word": "matters.",
+          "probability": 0.9992321729660034
+        }
+      ]
+    },
+    {
+      "start": 156.06,
+      "end": 158.42,
+      "text": "The contribution rate that captures the full match",
+      "words": [
+        {
+          "start": 156.06,
+          "end": 156.14,
+          "word": "The",
+          "probability": 0.9837586283683777
+        },
+        {
+          "start": 156.14,
+          "end": 156.42,
+          "word": "contribution",
+          "probability": 0.9968658089637756
+        },
+        {
+          "start": 156.42,
+          "end": 157.02,
+          "word": "rate",
+          "probability": 0.9983850717544556
+        },
+        {
+          "start": 157.02,
+          "end": 157.22,
+          "word": "that",
+          "probability": 0.9977565407752991
+        },
+        {
+          "start": 157.22,
+          "end": 157.52,
+          "word": "captures",
+          "probability": 0.997312068939209
+        },
+        {
+          "start": 157.52,
+          "end": 157.84,
+          "word": "the",
+          "probability": 0.9972238540649414
+        },
+        {
+          "start": 157.84,
+          "end": 158.1,
+          "word": "full",
+          "probability": 0.9779261946678162
+        },
+        {
+          "start": 158.1,
+          "end": 158.42,
+          "word": "match",
+          "probability": 0.9957463145256042
+        }
+      ]
+    },
+    {
+      "start": 158.42,
+      "end": 161.02,
+      "text": "is not necessarily the contribution rate",
+      "words": [
+        {
+          "start": 158.42,
+          "end": 158.9,
+          "word": "is",
+          "probability": 0.9766681790351868
+        },
+        {
+          "start": 158.9,
+          "end": 159.16,
+          "word": "not",
+          "probability": 0.9989890456199646
+        },
+        {
+          "start": 159.16,
+          "end": 159.64,
+          "word": "necessarily",
+          "probability": 0.997941792011261
+        },
+        {
+          "start": 159.64,
+          "end": 160.14,
+          "word": "the",
+          "probability": 0.998830258846283
+        },
+        {
+          "start": 160.14,
+          "end": 160.42,
+          "word": "contribution",
+          "probability": 0.9974143505096436
+        },
+        {
+          "start": 160.42,
+          "end": 161.02,
+          "word": "rate",
+          "probability": 0.9935448169708252
+        }
+      ]
+    },
+    {
+      "start": 161.02,
+      "end": 163.0,
+      "text": "that is right for your retirement goal.",
+      "words": [
+        {
+          "start": 161.02,
+          "end": 161.24,
+          "word": "that",
+          "probability": 0.9984498023986816
+        },
+        {
+          "start": 161.24,
+          "end": 161.36,
+          "word": "is",
+          "probability": 0.9944159984588623
+        },
+        {
+          "start": 161.36,
+          "end": 161.58,
+          "word": "right",
+          "probability": 0.9966440200805664
+        },
+        {
+          "start": 161.58,
+          "end": 161.84,
+          "word": "for",
+          "probability": 0.9991235136985779
+        },
+        {
+          "start": 161.84,
+          "end": 162.1,
+          "word": "your",
+          "probability": 0.9961560368537903
+        },
+        {
+          "start": 162.1,
+          "end": 162.46,
+          "word": "retirement",
+          "probability": 0.9978312849998474
+        },
+        {
+          "start": 162.46,
+          "end": 163.0,
+          "word": "goal.",
+          "probability": 0.9965547323226929
+        }
+      ]
+    },
+    {
+      "start": 163.56,
+      "end": 167.42,
+      "text": "6% only tells us where this employer's example match stops.",
+      "words": [
+        {
+          "start": 163.46,
+          "end": 163.8,
+          "word": "6",
+          "probability": 0.6823933720588684
+        },
+        {
+          "start": 163.8,
+          "end": 164.28,
+          "word": "%",
+          "probability": 0.9005260467529297
+        },
+        {
+          "start": 164.28,
+          "end": 164.62,
+          "word": "only",
+          "probability": 0.9810133576393127
+        },
+        {
+          "start": 164.62,
+          "end": 164.98,
+          "word": "tells",
+          "probability": 0.982388436794281
+        },
+        {
+          "start": 164.98,
+          "end": 165.2,
+          "word": "us",
+          "probability": 0.9924240112304688
+        },
+        {
+          "start": 165.2,
+          "end": 165.42,
+          "word": "where",
+          "probability": 0.986716628074646
+        },
+        {
+          "start": 165.42,
+          "end": 165.66,
+          "word": "this",
+          "probability": 0.9894986152648926
+        },
+        {
+          "start": 165.66,
+          "end": 166.28,
+          "word": "employer's",
+          "probability": 0.9611738920211792
+        },
+        {
+          "start": 166.28,
+          "end": 166.6,
+          "word": "example",
+          "probability": 0.973889946937561
+        },
+        {
+          "start": 166.6,
+          "end": 166.96,
+          "word": "match",
+          "probability": 0.9944696426391602
+        },
+        {
+          "start": 166.96,
+          "end": 167.42,
+          "word": "stops.",
+          "probability": 0.9903076887130737
+        }
+      ]
+    },
+    {
+      "start": 168.14,
+      "end": 170.72,
+      "text": "It does not tell us how much you should save overall.",
+      "words": [
+        {
+          "start": 168.14,
+          "end": 168.24,
+          "word": "It",
+          "probability": 0.9846516847610474
+        },
+        {
+          "start": 168.24,
+          "end": 168.36,
+          "word": "does",
+          "probability": 0.9803764820098877
+        },
+        {
+          "start": 168.36,
+          "end": 168.6,
+          "word": "not",
+          "probability": 0.9975252747535706
+        },
+        {
+          "start": 168.6,
+          "end": 168.94,
+          "word": "tell",
+          "probability": 0.9971467852592468
+        },
+        {
+          "start": 168.94,
+          "end": 169.12,
+          "word": "us",
+          "probability": 0.9928169250488281
+        },
+        {
+          "start": 169.12,
+          "end": 169.34,
+          "word": "how",
+          "probability": 0.9972757697105408
+        },
+        {
+          "start": 169.34,
+          "end": 169.54,
+          "word": "much",
+          "probability": 0.9979666471481323
+        },
+        {
+          "start": 169.54,
+          "end": 169.72,
+          "word": "you",
+          "probability": 0.9977503418922424
+        },
+        {
+          "start": 169.72,
+          "end": 169.88,
+          "word": "should",
+          "probability": 0.9953532218933105
+        },
+        {
+          "start": 169.88,
+          "end": 170.22,
+          "word": "save",
+          "probability": 0.9949110150337219
+        },
+        {
+          "start": 170.22,
+          "end": 170.72,
+          "word": "overall.",
+          "probability": 0.9502620100975037
+        }
+      ]
+    },
+    {
+      "start": 171.6,
+      "end": 174.42,
+      "text": "Now, return to the original 3% contribution.",
+      "words": [
+        {
+          "start": 171.6,
+          "end": 171.86,
+          "word": "Now,",
+          "probability": 0.9741117358207703
+        },
+        {
+          "start": 172.2,
+          "end": 172.42,
+          "word": "return",
+          "probability": 0.9875051975250244
+        },
+        {
+          "start": 172.42,
+          "end": 172.76,
+          "word": "to",
+          "probability": 0.9975358247756958
+        },
+        {
+          "start": 172.76,
+          "end": 172.88,
+          "word": "the",
+          "probability": 0.9983177185058594
+        },
+        {
+          "start": 172.88,
+          "end": 173.16,
+          "word": "original",
+          "probability": 0.980273962020874
+        },
+        {
+          "start": 173.16,
+          "end": 173.66,
+          "word": "3",
+          "probability": 0.9291000962257385
+        },
+        {
+          "start": 173.66,
+          "end": 174.06,
+          "word": "%",
+          "probability": 0.9857117533683777
+        },
+        {
+          "start": 174.06,
+          "end": 174.42,
+          "word": "contribution.",
+          "probability": 0.9936657547950745
+        }
+      ]
+    },
+    {
+      "start": 175.4,
+      "end": 178.7,
+      "text": "The maximum available employer match is $2400.",
+      "words": [
+        {
+          "start": 175.4,
+          "end": 175.5,
+          "word": "The",
+          "probability": 0.99355548620224
+        },
+        {
+          "start": 175.5,
+          "end": 175.8,
+          "word": "maximum",
+          "probability": 0.9905016422271729
+        },
+        {
+          "start": 175.8,
+          "end": 176.26,
+          "word": "available",
+          "probability": 0.9816253185272217
+        },
+        {
+          "start": 176.26,
+          "end": 177.0,
+          "word": "employer",
+          "probability": 0.9924474954605103
+        },
+        {
+          "start": 177.0,
+          "end": 177.3,
+          "word": "match",
+          "probability": 0.9911770820617676
+        },
+        {
+          "start": 177.3,
+          "end": 177.66,
+          "word": "is",
+          "probability": 0.9972690939903259
+        },
+        {
+          "start": 177.66,
+          "end": 178.7,
+          "word": "$2400.",
+          "probability": 0.8573050498962402
+        }
+      ]
+    },
+    {
+      "start": 179.44,
+      "end": 182.14,
+      "text": "The amount currently being captured is $1,200.",
+      "words": [
+        {
+          "start": 179.44,
+          "end": 179.72,
+          "word": "The",
+          "probability": 0.9937007427215576
+        },
+        {
+          "start": 179.72,
+          "end": 179.88,
+          "word": "amount",
+          "probability": 0.9991753697395325
+        },
+        {
+          "start": 179.88,
+          "end": 180.28,
+          "word": "currently",
+          "probability": 0.9960132837295532
+        },
+        {
+          "start": 180.28,
+          "end": 180.66,
+          "word": "being",
+          "probability": 0.9985184073448181
+        },
+        {
+          "start": 180.66,
+          "end": 181.04,
+          "word": "captured",
+          "probability": 0.9970729351043701
+        },
+        {
+          "start": 181.04,
+          "end": 181.5,
+          "word": "is",
+          "probability": 0.9834752082824707
+        },
+        {
+          "start": 181.5,
+          "end": 181.7,
+          "word": "$1",
+          "probability": 0.6044298261404037
+        },
+        {
+          "start": 181.7,
+          "end": 182.14,
+          "word": ",200.",
+          "probability": 0.9882250428199768
+        }
+      ]
+    },
+    {
+      "start": 183.04,
+      "end": 185.8,
+      "text": "The difference is $1,200 per year.",
+      "words": [
+        {
+          "start": 183.04,
+          "end": 183.26,
+          "word": "The",
+          "probability": 0.9950525164604187
+        },
+        {
+          "start": 183.26,
+          "end": 183.6,
+          "word": "difference",
+          "probability": 0.9995414018630981
+        },
+        {
+          "start": 183.6,
+          "end": 184.02,
+          "word": "is",
+          "probability": 0.9977466464042664
+        },
+        {
+          "start": 184.02,
+          "end": 184.28,
+          "word": "$1",
+          "probability": 0.9650580883026123
+        },
+        {
+          "start": 184.28,
+          "end": 184.76,
+          "word": ",200",
+          "probability": 0.9963844120502472
+        },
+        {
+          "start": 184.76,
+          "end": 185.46,
+          "word": "per",
+          "probability": 0.9476279020309448
+        },
+        {
+          "start": 185.46,
+          "end": 185.8,
+          "word": "year.",
+          "probability": 0.9992927312850952
+        }
+      ]
+    },
+    {
+      "start": 186.54,
+      "end": 190.8,
+      "text": "Over one year, that is $1,200 of uncaptured employer contributions.",
+      "words": [
+        {
+          "start": 186.54,
+          "end": 186.72,
+          "word": "Over",
+          "probability": 0.9917758703231812
+        },
+        {
+          "start": 186.72,
+          "end": 187.0,
+          "word": "one",
+          "probability": 0.7469933032989502
+        },
+        {
+          "start": 187.0,
+          "end": 187.28,
+          "word": "year,",
+          "probability": 0.9988986253738403
+        },
+        {
+          "start": 187.6,
+          "end": 187.74,
+          "word": "that",
+          "probability": 0.9980080723762512
+        },
+        {
+          "start": 187.74,
+          "end": 187.86,
+          "word": "is",
+          "probability": 0.99165278673172
+        },
+        {
+          "start": 187.86,
+          "end": 188.1,
+          "word": "$1",
+          "probability": 0.987136721611023
+        },
+        {
+          "start": 188.1,
+          "end": 188.58,
+          "word": ",200",
+          "probability": 0.9940920770168304
+        },
+        {
+          "start": 188.58,
+          "end": 189.18,
+          "word": "of",
+          "probability": 0.9961274266242981
+        },
+        {
+          "start": 189.18,
+          "end": 189.98,
+          "word": "uncaptured",
+          "probability": 0.8924189209938049
+        },
+        {
+          "start": 189.98,
+          "end": 190.44,
+          "word": "employer",
+          "probability": 0.9947230815887451
+        },
+        {
+          "start": 190.44,
+          "end": 190.8,
+          "word": "contributions.",
+          "probability": 0.9940730929374695
+        }
+      ]
+    },
+    {
+      "start": 191.76000000000002,
+      "end": 194.32,
+      "text": "Over five years, it is $6,000.",
+      "words": [
+        {
+          "start": 191.67999999999998,
+          "end": 192.04,
+          "word": "Over",
+          "probability": 0.05864407867193222
+        },
+        {
+          "start": 192.04,
+          "end": 192.5,
+          "word": "five",
+          "probability": 0.10457731783390045
+        },
+        {
+          "start": 192.5,
+          "end": 192.8,
+          "word": "years,",
+          "probability": 0.9923829436302185
+        },
+        {
+          "start": 193.18,
+          "end": 193.28,
+          "word": "it",
+          "probability": 0.9775845408439636
+        },
+        {
+          "start": 193.28,
+          "end": 193.38,
+          "word": "is",
+          "probability": 0.9862842559814453
+        },
+        {
+          "start": 193.38,
+          "end": 193.8,
+          "word": "$6",
+          "probability": 0.8649677932262421
+        },
+        {
+          "start": 193.8,
+          "end": 194.32,
+          "word": ",000.",
+          "probability": 0.9910735487937927
+        }
+      ]
+    },
+    {
+      "start": 194.96,
+      "end": 197.76,
+      "text": "Over 10 years, it is $12,000.",
+      "words": [
+        {
+          "start": 194.96,
+          "end": 195.42,
+          "word": "Over",
+          "probability": 0.9873005747795105
+        },
+        {
+          "start": 195.42,
+          "end": 195.76,
+          "word": "10",
+          "probability": 0.7089062333106995
+        },
+        {
+          "start": 195.76,
+          "end": 196.08,
+          "word": "years,",
+          "probability": 0.9962576627731323
+        },
+        {
+          "start": 196.5,
+          "end": 196.66,
+          "word": "it",
+          "probability": 0.9963333606719971
+        },
+        {
+          "start": 196.66,
+          "end": 196.8,
+          "word": "is",
+          "probability": 0.9961062073707581
+        },
+        {
+          "start": 196.8,
+          "end": 197.24,
+          "word": "$12",
+          "probability": 0.9901061356067657
+        },
+        {
+          "start": 197.24,
+          "end": 197.76,
+          "word": ",000.",
+          "probability": 0.997669517993927
+        }
+      ]
+    },
+    {
+      "start": 198.48,
+      "end": 201.04,
+      "text": "Those figures count only the missing contributions.",
+      "words": [
+        {
+          "start": 198.48,
+          "end": 198.92,
+          "word": "Those",
+          "probability": 0.990994393825531
+        },
+        {
+          "start": 198.92,
+          "end": 199.32,
+          "word": "figures",
+          "probability": 0.9990195035934448
+        },
+        {
+          "start": 199.32,
+          "end": 199.66,
+          "word": "count",
+          "probability": 0.9980164766311646
+        },
+        {
+          "start": 199.66,
+          "end": 200.14,
+          "word": "only",
+          "probability": 0.996650755405426
+        },
+        {
+          "start": 200.14,
+          "end": 200.3,
+          "word": "the",
+          "probability": 0.996934175491333
+        },
+        {
+          "start": 200.3,
+          "end": 200.7,
+          "word": "missing",
+          "probability": 0.9900467991828918
+        },
+        {
+          "start": 200.7,
+          "end": 201.04,
+          "word": "contributions.",
+          "probability": 0.997929573059082
+        }
+      ]
+    },
+    {
+      "start": 202.1,
+      "end": 204.76,
+      "text": "They do not include any investment gains or losses.",
+      "words": [
+        {
+          "start": 202.1,
+          "end": 202.22,
+          "word": "They",
+          "probability": 0.9937398433685303
+        },
+        {
+          "start": 202.22,
+          "end": 202.34,
+          "word": "do",
+          "probability": 0.99715256690979
+        },
+        {
+          "start": 202.34,
+          "end": 202.52,
+          "word": "not",
+          "probability": 0.9993095397949219
+        },
+        {
+          "start": 202.52,
+          "end": 202.9,
+          "word": "include",
+          "probability": 0.9993040561676025
+        },
+        {
+          "start": 202.9,
+          "end": 203.26,
+          "word": "any",
+          "probability": 0.9975608587265015
+        },
+        {
+          "start": 203.26,
+          "end": 203.76,
+          "word": "investment",
+          "probability": 0.9989598989486694
+        },
+        {
+          "start": 203.76,
+          "end": 204.06,
+          "word": "gains",
+          "probability": 0.9990181922912598
+        },
+        {
+          "start": 204.06,
+          "end": 204.44,
+          "word": "or",
+          "probability": 0.994515597820282
+        },
+        {
+          "start": 204.44,
+          "end": 204.76,
+          "word": "losses.",
+          "probability": 0.9966070652008057
+        }
+      ]
+    },
+    {
+      "start": 205.48,
+      "end": 207.64,
+      "text": "That difference can become larger over time",
+      "words": [
+        {
+          "start": 205.48,
+          "end": 205.64,
+          "word": "That",
+          "probability": 0.9962266683578491
+        },
+        {
+          "start": 205.64,
+          "end": 206.02,
+          "word": "difference",
+          "probability": 0.999024510383606
+        },
+        {
+          "start": 206.02,
+          "end": 206.3,
+          "word": "can",
+          "probability": 0.9990668892860413
+        },
+        {
+          "start": 206.3,
+          "end": 206.42,
+          "word": "become",
+          "probability": 0.9970201849937439
+        },
+        {
+          "start": 206.42,
+          "end": 206.9,
+          "word": "larger",
+          "probability": 0.9992413520812988
+        },
+        {
+          "start": 206.9,
+          "end": 207.26,
+          "word": "over",
+          "probability": 0.9939654469490051
+        },
+        {
+          "start": 207.26,
+          "end": 207.64,
+          "word": "time",
+          "probability": 0.999523401260376
+        }
+      ]
+    },
+    {
+      "start": 207.64,
+      "end": 211.08,
+      "text": "because money contributed earlier has more time to compound.",
+      "words": [
+        {
+          "start": 207.64,
+          "end": 208.2,
+          "word": "because",
+          "probability": 0.7291577458381653
+        },
+        {
+          "start": 208.2,
+          "end": 208.5,
+          "word": "money",
+          "probability": 0.9972975850105286
+        },
+        {
+          "start": 208.5,
+          "end": 208.76,
+          "word": "contributed",
+          "probability": 0.9994327425956726
+        },
+        {
+          "start": 208.76,
+          "end": 209.48,
+          "word": "earlier",
+          "probability": 0.9992930889129639
+        },
+        {
+          "start": 209.48,
+          "end": 209.98,
+          "word": "has",
+          "probability": 0.9903221726417542
+        },
+        {
+          "start": 209.98,
+          "end": 210.22,
+          "word": "more",
+          "probability": 0.9994809031486511
+        },
+        {
+          "start": 210.22,
+          "end": 210.58,
+          "word": "time",
+          "probability": 0.9995852112770081
+        },
+        {
+          "start": 210.58,
+          "end": 210.82,
+          "word": "to",
+          "probability": 0.9994292855262756
+        },
+        {
+          "start": 210.82,
+          "end": 211.08,
+          "word": "compound.",
+          "probability": 0.9989628791809082
+        }
+      ]
+    },
+    {
+      "start": 211.86,
+      "end": 214.72,
+      "text": "For illustration, suppose the additional $1,200",
+      "words": [
+        {
+          "start": 211.86,
+          "end": 212.06,
+          "word": "For",
+          "probability": 0.9963136315345764
+        },
+        {
+          "start": 212.06,
+          "end": 212.34,
+          "word": "illustration,",
+          "probability": 0.9956187605857849
+        },
+        {
+          "start": 212.98,
+          "end": 213.34,
+          "word": "suppose",
+          "probability": 0.9950001239776611
+        },
+        {
+          "start": 213.34,
+          "end": 213.64,
+          "word": "the",
+          "probability": 0.9935280680656433
+        },
+        {
+          "start": 213.64,
+          "end": 213.88,
+          "word": "additional",
+          "probability": 0.9952759742736816
+        },
+        {
+          "start": 213.88,
+          "end": 214.32,
+          "word": "$1",
+          "probability": 0.9544628858566284
+        },
+        {
+          "start": 214.32,
+          "end": 214.72,
+          "word": ",200",
+          "probability": 0.9911868870258331
+        }
+      ]
+    },
+    {
+      "start": 214.72,
+      "end": 219.58,
+      "text": "is invested each year and earns an average annual return of 7%.",
+      "words": [
+        {
+          "start": 214.72,
+          "end": 215.32,
+          "word": "is",
+          "probability": 0.988581120967865
+        },
+        {
+          "start": 215.32,
+          "end": 215.66,
+          "word": "invested",
+          "probability": 0.9992485642433167
+        },
+        {
+          "start": 215.66,
+          "end": 216.14,
+          "word": "each",
+          "probability": 0.9996758699417114
+        },
+        {
+          "start": 216.14,
+          "end": 216.5,
+          "word": "year",
+          "probability": 0.9997971653938293
+        },
+        {
+          "start": 216.5,
+          "end": 216.9,
+          "word": "and",
+          "probability": 0.9811255931854248
+        },
+        {
+          "start": 216.9,
+          "end": 217.12,
+          "word": "earns",
+          "probability": 0.998831570148468
+        },
+        {
+          "start": 217.12,
+          "end": 217.3,
+          "word": "an",
+          "probability": 0.9974070191383362
+        },
+        {
+          "start": 217.3,
+          "end": 217.66,
+          "word": "average",
+          "probability": 0.9984351992607117
+        },
+        {
+          "start": 217.66,
+          "end": 218.04,
+          "word": "annual",
+          "probability": 0.9979070425033569
+        },
+        {
+          "start": 218.04,
+          "end": 218.52,
+          "word": "return",
+          "probability": 0.9985306262969971
+        },
+        {
+          "start": 218.52,
+          "end": 218.84,
+          "word": "of",
+          "probability": 0.9983236193656921
+        },
+        {
+          "start": 218.84,
+          "end": 219.58,
+          "word": "7%.",
+          "probability": 0.9127049148082733
+        }
+      ]
+    },
+    {
+      "start": 220.22,
+      "end": 222.44,
+      "text": "After 30 years, the difference created",
+      "words": [
+        {
+          "start": 220.0,
+          "end": 220.36,
+          "word": "After",
+          "probability": 0.4795350432395935
+        },
+        {
+          "start": 220.36,
+          "end": 220.86,
+          "word": "30",
+          "probability": 0.9523028135299683
+        },
+        {
+          "start": 220.86,
+          "end": 221.24,
+          "word": "years,",
+          "probability": 0.9972814321517944
+        },
+        {
+          "start": 221.72,
+          "end": 221.76,
+          "word": "the",
+          "probability": 0.9977992177009583
+        },
+        {
+          "start": 221.76,
+          "end": 222.08,
+          "word": "difference",
+          "probability": 0.9967028498649597
+        },
+        {
+          "start": 222.08,
+          "end": 222.44,
+          "word": "created",
+          "probability": 0.9975023865699768
+        }
+      ]
+    },
+    {
+      "start": 222.44,
+      "end": 224.52,
+      "text": "by those additional employer contributions",
+      "words": [
+        {
+          "start": 222.44,
+          "end": 222.8,
+          "word": "by",
+          "probability": 0.9988396763801575
+        },
+        {
+          "start": 222.8,
+          "end": 222.96,
+          "word": "those",
+          "probability": 0.9877024292945862
+        },
+        {
+          "start": 222.96,
+          "end": 223.44,
+          "word": "additional",
+          "probability": 0.9940704703330994
+        },
+        {
+          "start": 223.44,
+          "end": 223.98,
+          "word": "employer",
+          "probability": 0.9928648471832275
+        },
+        {
+          "start": 223.98,
+          "end": 224.52,
+          "word": "contributions",
+          "probability": 0.9915430545806885
+        }
+      ]
+    },
+    {
+      "start": 225.18,
+      "end": 228.14,
+      "text": "could grow to roughly $113,000.",
+      "words": [
+        {
+          "start": 224.95999999999998,
+          "end": 225.32,
+          "word": "could",
+          "probability": 0.9846960306167603
+        },
+        {
+          "start": 225.32,
+          "end": 225.64,
+          "word": "grow",
+          "probability": 0.9943197965621948
+        },
+        {
+          "start": 225.64,
+          "end": 225.86,
+          "word": "to",
+          "probability": 0.9977192282676697
+        },
+        {
+          "start": 225.86,
+          "end": 226.18,
+          "word": "roughly",
+          "probability": 0.9980360865592957
+        },
+        {
+          "start": 226.18,
+          "end": 226.68,
+          "word": "$113",
+          "probability": 0.8998949229717255
+        },
+        {
+          "start": 226.68,
+          "end": 228.14,
+          "word": ",000.",
+          "probability": 0.9892323315143585
+        }
+      ]
+    },
+    {
+      "start": 229.06,
+      "end": 231.76,
+      "text": "But that is an illustration, not a promise.",
+      "words": [
+        {
+          "start": 229.06,
+          "end": 229.28,
+          "word": "But",
+          "probability": 0.9878496527671814
+        },
+        {
+          "start": 229.28,
+          "end": 229.5,
+          "word": "that",
+          "probability": 0.9793521761894226
+        },
+        {
+          "start": 229.5,
+          "end": 229.78,
+          "word": "is",
+          "probability": 0.9762631058692932
+        },
+        {
+          "start": 229.78,
+          "end": 229.9,
+          "word": "an",
+          "probability": 0.9657761454582214
+        },
+        {
+          "start": 229.9,
+          "end": 230.32,
+          "word": "illustration,",
+          "probability": 0.9990906715393066
+        },
+        {
+          "start": 230.9,
+          "end": 231.22,
+          "word": "not",
+          "probability": 0.9987295269966125
+        },
+        {
+          "start": 231.22,
+          "end": 231.42,
+          "word": "a",
+          "probability": 0.9965683221817017
+        },
+        {
+          "start": 231.42,
+          "end": 231.76,
+          "word": "promise.",
+          "probability": 0.9982619881629944
+        }
+      ]
+    },
+    {
+      "start": 232.48,
+      "end": 234.8,
+      "text": "A 7% return is only an assumption.",
+      "words": [
+        {
+          "start": 232.48,
+          "end": 232.54,
+          "word": "A",
+          "probability": 0.993030846118927
+        },
+        {
+          "start": 232.54,
+          "end": 232.82,
+          "word": "7",
+          "probability": 0.9433580636978149
+        },
+        {
+          "start": 232.82,
+          "end": 233.04,
+          "word": "%",
+          "probability": 0.8804305195808411
+        },
+        {
+          "start": 233.04,
+          "end": 233.52,
+          "word": "return",
+          "probability": 0.9965240359306335
+        },
+        {
+          "start": 233.52,
+          "end": 233.92,
+          "word": "is",
+          "probability": 0.9978585839271545
+        },
+        {
+          "start": 233.92,
+          "end": 234.32,
+          "word": "only",
+          "probability": 0.9972333312034607
+        },
+        {
+          "start": 234.32,
+          "end": 234.52,
+          "word": "an",
+          "probability": 0.9882892370223999
+        },
+        {
+          "start": 234.52,
+          "end": 234.8,
+          "word": "assumption.",
+          "probability": 0.9994315505027771
+        }
+      ]
+    },
+    {
+      "start": 235.56,
+      "end": 237.02,
+      "text": "Actual investments fluctuate.",
+      "words": [
+        {
+          "start": 235.56,
+          "end": 235.78,
+          "word": "Actual",
+          "probability": 0.9840615391731262
+        },
+        {
+          "start": 235.78,
+          "end": 236.22,
+          "word": "investments",
+          "probability": 0.9830098748207092
+        },
+        {
+          "start": 236.22,
+          "end": 237.02,
+          "word": "fluctuate.",
+          "probability": 0.998477965593338
+        }
+      ]
+    },
+    {
+      "start": 237.8,
+      "end": 238.22,
+      "text": "Fees matter.",
+      "words": [
+        {
+          "start": 237.8,
+          "end": 237.8,
+          "word": "Fees",
+          "probability": 0.8910097479820251
+        },
+        {
+          "start": 237.8,
+          "end": 238.22,
+          "word": "matter.",
+          "probability": 0.9992656111717224
+        }
+      ]
+    },
+    {
+      "start": 239.26,
+      "end": 241.8,
+      "text": "Returns can be lower and losses are possible.",
+      "words": [
+        {
+          "start": 239.26,
+          "end": 239.26,
+          "word": "Returns",
+          "probability": 0.948623538017273
+        },
+        {
+          "start": 239.26,
+          "end": 239.44,
+          "word": "can",
+          "probability": 0.9986749291419983
+        },
+        {
+          "start": 239.44,
+          "end": 239.56,
+          "word": "be",
+          "probability": 0.9995366334915161
+        },
+        {
+          "start": 239.56,
+          "end": 239.84,
+          "word": "lower",
+          "probability": 0.998696506023407
+        },
+        {
+          "start": 239.84,
+          "end": 240.46,
+          "word": "and",
+          "probability": 0.4994385540485382
+        },
+        {
+          "start": 240.46,
+          "end": 240.74,
+          "word": "losses",
+          "probability": 0.9962440729141235
+        },
+        {
+          "start": 240.74,
+          "end": 241.32,
+          "word": "are",
+          "probability": 0.9987305998802185
+        },
+        {
+          "start": 241.32,
+          "end": 241.8,
+          "word": "possible.",
+          "probability": 0.9993379712104797
+        }
+      ]
+    },
+    {
+      "start": 242.62,
+      "end": 244.94,
+      "text": "The important point is not the projected number.",
+      "words": [
+        {
+          "start": 242.62,
+          "end": 242.64,
+          "word": "The",
+          "probability": 0.9977431297302246
+        },
+        {
+          "start": 242.64,
+          "end": 242.82,
+          "word": "important",
+          "probability": 0.987014889717102
+        },
+        {
+          "start": 242.82,
+          "end": 243.36,
+          "word": "point",
+          "probability": 0.9954707622528076
+        },
+        {
+          "start": 243.36,
+          "end": 243.62,
+          "word": "is",
+          "probability": 0.9985225796699524
+        },
+        {
+          "start": 243.62,
+          "end": 243.88,
+          "word": "not",
+          "probability": 0.9986042380332947
+        },
+        {
+          "start": 243.88,
+          "end": 244.08,
+          "word": "the",
+          "probability": 0.9975723624229431
+        },
+        {
+          "start": 244.08,
+          "end": 244.46,
+          "word": "projected",
+          "probability": 0.9974716901779175
+        },
+        {
+          "start": 244.46,
+          "end": 244.94,
+          "word": "number.",
+          "probability": 0.9980261921882629
+        }
+      ]
+    },
+    {
+      "start": 245.36,
+      "end": 247.9,
+      "text": "The point is that a recurring contribution difference",
+      "words": [
+        {
+          "start": 245.36,
+          "end": 245.56,
+          "word": "The",
+          "probability": 0.9985082745552063
+        },
+        {
+          "start": 245.56,
+          "end": 245.86,
+          "word": "point",
+          "probability": 0.9993897676467896
+        },
+        {
+          "start": 245.86,
+          "end": 246.22,
+          "word": "is",
+          "probability": 0.9986999034881592
+        },
+        {
+          "start": 246.22,
+          "end": 246.38,
+          "word": "that",
+          "probability": 0.9989616870880127
+        },
+        {
+          "start": 246.38,
+          "end": 246.48,
+          "word": "a",
+          "probability": 0.9956641793251038
+        },
+        {
+          "start": 246.48,
+          "end": 246.82,
+          "word": "recurring",
+          "probability": 0.9987801909446716
+        },
+        {
+          "start": 246.82,
+          "end": 247.28,
+          "word": "contribution",
+          "probability": 0.9935378432273865
+        },
+        {
+          "start": 247.28,
+          "end": 247.9,
+          "word": "difference",
+          "probability": 0.997651994228363
+        }
+      ]
+    },
+    {
+      "start": 247.9,
+      "end": 250.8,
+      "text": "can be magnified over a long period of time.",
+      "words": [
+        {
+          "start": 247.9,
+          "end": 248.28,
+          "word": "can",
+          "probability": 0.11456698924303055
+        },
+        {
+          "start": 248.28,
+          "end": 248.44,
+          "word": "be",
+          "probability": 0.980966329574585
+        },
+        {
+          "start": 248.44,
+          "end": 249.12,
+          "word": "magnified",
+          "probability": 0.9776042103767395
+        },
+        {
+          "start": 249.12,
+          "end": 249.5,
+          "word": "over",
+          "probability": 0.9968945980072021
+        },
+        {
+          "start": 249.5,
+          "end": 249.62,
+          "word": "a",
+          "probability": 0.9970773458480835
+        },
+        {
+          "start": 249.62,
+          "end": 249.86,
+          "word": "long",
+          "probability": 0.9983294606208801
+        },
+        {
+          "start": 249.86,
+          "end": 250.28,
+          "word": "period",
+          "probability": 0.9950879216194153
+        },
+        {
+          "start": 250.28,
+          "end": 250.52,
+          "word": "of",
+          "probability": 0.9975224137306213
+        },
+        {
+          "start": 250.52,
+          "end": 250.8,
+          "word": "time.",
+          "probability": 0.999600350856781
+        }
+      ]
+    },
+    {
+      "start": 251.46,
+      "end": 253.64,
+      "text": "So, how can you test your own situation?",
+      "words": [
+        {
+          "start": 251.46,
+          "end": 251.66,
+          "word": "So,",
+          "probability": 0.985947847366333
+        },
+        {
+          "start": 252.08,
+          "end": 252.22,
+          "word": "how",
+          "probability": 0.9942933320999146
+        },
+        {
+          "start": 252.22,
+          "end": 252.38,
+          "word": "can",
+          "probability": 0.9970183372497559
+        },
+        {
+          "start": 252.38,
+          "end": 252.6,
+          "word": "you",
+          "probability": 0.9906032681465149
+        },
+        {
+          "start": 252.6,
+          "end": 252.88,
+          "word": "test",
+          "probability": 0.998724639415741
+        },
+        {
+          "start": 252.88,
+          "end": 253.1,
+          "word": "your",
+          "probability": 0.9976626634597778
+        },
+        {
+          "start": 253.1,
+          "end": 253.32,
+          "word": "own",
+          "probability": 0.9939663410186768
+        },
+        {
+          "start": 253.32,
+          "end": 253.64,
+          "word": "situation?",
+          "probability": 0.9987701773643494
+        }
+      ]
+    },
+    {
+      "start": 254.5,
+      "end": 257.86,
+      "text": "Open the Calc Matrix 401K employer match calculator.",
+      "words": [
+        {
+          "start": 254.5,
+          "end": 254.8,
+          "word": "Open",
+          "probability": 0.9802706241607666
+        },
+        {
+          "start": 254.8,
+          "end": 254.98,
+          "word": "the",
+          "probability": 0.9961786270141602
+        },
+        {
+          "start": 254.98,
+          "end": 255.32,
+          "word": "Calc",
+          "probability": 0.6938992589712143
+        },
+        {
+          "start": 255.32,
+          "end": 255.62,
+          "word": "Matrix",
+          "probability": 0.40163692831993103
+        },
+        {
+          "start": 255.62,
+          "end": 256.62,
+          "word": "401K",
+          "probability": 0.5968207493424416
+        },
+        {
+          "start": 256.62,
+          "end": 257.12,
+          "word": "employer",
+          "probability": 0.5182981491088867
+        },
+        {
+          "start": 257.12,
+          "end": 257.48,
+          "word": "match",
+          "probability": 0.9178162217140198
+        },
+        {
+          "start": 257.48,
+          "end": 257.86,
+          "word": "calculator.",
+          "probability": 0.9990781545639038
+        }
+      ]
+    },
+    {
+      "start": 258.7,
+      "end": 260.18,
+      "text": "Start with your annual salary.",
+      "words": [
+        {
+          "start": 258.7,
+          "end": 258.98,
+          "word": "Start",
+          "probability": 0.9942142367362976
+        },
+        {
+          "start": 258.98,
+          "end": 259.26,
+          "word": "with",
+          "probability": 0.9995086193084717
+        },
+        {
+          "start": 259.26,
+          "end": 259.4,
+          "word": "your",
+          "probability": 0.9963420033454895
+        },
+        {
+          "start": 259.4,
+          "end": 259.7,
+          "word": "annual",
+          "probability": 0.9794287085533142
+        },
+        {
+          "start": 259.7,
+          "end": 260.18,
+          "word": "salary.",
+          "probability": 0.9986836314201355
+        }
+      ]
+    },
+    {
+      "start": 260.84,
+      "end": 263.06,
+      "text": "For this example, enter $80,000.",
+      "words": [
+        {
+          "start": 260.84,
+          "end": 260.96,
+          "word": "For",
+          "probability": 0.9958819150924683
+        },
+        {
+          "start": 260.96,
+          "end": 261.14,
+          "word": "this",
+          "probability": 0.9987664222717285
+        },
+        {
+          "start": 261.14,
+          "end": 261.46,
+          "word": "example,",
+          "probability": 0.9987809062004089
+        },
+        {
+          "start": 261.94,
+          "end": 262.12,
+          "word": "enter",
+          "probability": 0.9832050204277039
+        },
+        {
+          "start": 262.12,
+          "end": 262.52,
+          "word": "$80",
+          "probability": 0.9741249978542328
+        },
+        {
+          "start": 262.52,
+          "end": 263.06,
+          "word": ",000.",
+          "probability": 0.9953325986862183
+        }
+      ]
+    },
+    {
+      "start": 263.8,
+      "end": 266.08,
+      "text": "Set your contribution to 3%.",
+      "words": [
+        {
+          "start": 263.8,
+          "end": 264.08,
+          "word": "Set",
+          "probability": 0.9913737177848816
+        },
+        {
+          "start": 264.08,
+          "end": 264.26,
+          "word": "your",
+          "probability": 0.9977466464042664
+        },
+        {
+          "start": 264.26,
+          "end": 264.68,
+          "word": "contribution",
+          "probability": 0.9928377270698547
+        },
+        {
+          "start": 264.68,
+          "end": 265.2,
+          "word": "to",
+          "probability": 0.9979627132415771
+        },
+        {
+          "start": 265.2,
+          "end": 266.08,
+          "word": "3%.",
+          "probability": 0.9086697101593018
+        }
+      ]
+    },
+    {
+      "start": 266.08,
+      "end": 269.7,
+      "text": "Then, enter the employer match rate, 50%.",
+      "words": [
+        {
+          "start": 266.08,
+          "end": 266.66,
+          "word": "Then,",
+          "probability": 0.9969281554222107
+        },
+        {
+          "start": 266.94,
+          "end": 267.24,
+          "word": "enter",
+          "probability": 0.9955079555511475
+        },
+        {
+          "start": 267.24,
+          "end": 267.4,
+          "word": "the",
+          "probability": 0.9976958632469177
+        },
+        {
+          "start": 267.4,
+          "end": 267.74,
+          "word": "employer",
+          "probability": 0.956929624080658
+        },
+        {
+          "start": 267.74,
+          "end": 268.12,
+          "word": "match",
+          "probability": 0.9830657243728638
+        },
+        {
+          "start": 268.12,
+          "end": 268.38,
+          "word": "rate,",
+          "probability": 0.9946631193161011
+        },
+        {
+          "start": 268.9,
+          "end": 269.7,
+          "word": "50%.",
+          "probability": 0.9859039187431335
+        }
+      ]
+    },
+    {
+      "start": 269.7,
+      "end": 272.88,
+      "text": "Finally, enter the match cap, 6%.",
+      "words": [
+        {
+          "start": 269.7,
+          "end": 270.4,
+          "word": "Finally,",
+          "probability": 0.995541512966156
+        },
+        {
+          "start": 270.72,
+          "end": 271.02,
+          "word": "enter",
+          "probability": 0.9962785840034485
+        },
+        {
+          "start": 271.02,
+          "end": 271.2,
+          "word": "the",
+          "probability": 0.9991793036460876
+        },
+        {
+          "start": 271.2,
+          "end": 271.44,
+          "word": "match",
+          "probability": 0.7040820121765137
+        },
+        {
+          "start": 271.44,
+          "end": 271.68,
+          "word": "cap,",
+          "probability": 0.98689866065979
+        },
+        {
+          "start": 272.06,
+          "end": 272.88,
+          "word": "6%.",
+          "probability": 0.9875189363956451
+        }
+      ]
+    },
+    {
+      "start": 272.88,
+      "end": 276.96,
+      "text": "The calculator shows an employee contribution of $2400",
+      "words": [
+        {
+          "start": 272.88,
+          "end": 273.44,
+          "word": "The",
+          "probability": 0.9976466298103333
+        },
+        {
+          "start": 273.44,
+          "end": 273.68,
+          "word": "calculator",
+          "probability": 0.9870115518569946
+        },
+        {
+          "start": 273.68,
+          "end": 274.26,
+          "word": "shows",
+          "probability": 0.9976397752761841
+        },
+        {
+          "start": 274.26,
+          "end": 274.54,
+          "word": "an",
+          "probability": 0.9968679547309875
+        },
+        {
+          "start": 274.54,
+          "end": 274.86,
+          "word": "employee",
+          "probability": 0.987037181854248
+        },
+        {
+          "start": 274.86,
+          "end": 275.28,
+          "word": "contribution",
+          "probability": 0.9980880618095398
+        },
+        {
+          "start": 275.28,
+          "end": 275.96,
+          "word": "of",
+          "probability": 0.9981597065925598
+        },
+        {
+          "start": 275.96,
+          "end": 276.96,
+          "word": "$2400",
+          "probability": 0.9129672646522522
+        }
+      ]
+    },
+    {
+      "start": 277.59999999999997,
+      "end": 279.66,
+      "text": "and an employer match of $1,200.",
+      "words": [
+        {
+          "start": 277.40000000000003,
+          "end": 277.8,
+          "word": "and",
+          "probability": 0.2956482768058777
+        },
+        {
+          "start": 277.8,
+          "end": 277.88,
+          "word": "an",
+          "probability": 0.9476817846298218
+        },
+        {
+          "start": 277.88,
+          "end": 278.24,
+          "word": "employer",
+          "probability": 0.9681140780448914
+        },
+        {
+          "start": 278.24,
+          "end": 278.68,
+          "word": "match",
+          "probability": 0.9765427708625793
+        },
+        {
+          "start": 278.68,
+          "end": 279.0,
+          "word": "of",
+          "probability": 0.99216628074646
+        },
+        {
+          "start": 279.0,
+          "end": 279.2,
+          "word": "$1",
+          "probability": 0.8346813917160034
+        },
+        {
+          "start": 279.2,
+          "end": 279.66,
+          "word": ",200.",
+          "probability": 0.9902059733867645
+        }
+      ]
+    },
+    {
+      "start": 280.46,
+      "end": 283.82,
+      "text": "Now, change the employee contribution from 3%",
+      "words": [
+        {
+          "start": 280.46,
+          "end": 280.92,
+          "word": "Now,",
+          "probability": 0.982826292514801
+        },
+        {
+          "start": 281.14,
+          "end": 281.38,
+          "word": "change",
+          "probability": 0.9964751601219177
+        },
+        {
+          "start": 281.38,
+          "end": 281.66,
+          "word": "the",
+          "probability": 0.9982659220695496
+        },
+        {
+          "start": 281.66,
+          "end": 282.02,
+          "word": "employee",
+          "probability": 0.9827787280082703
+        },
+        {
+          "start": 282.02,
+          "end": 282.38,
+          "word": "contribution",
+          "probability": 0.9968005418777466
+        },
+        {
+          "start": 282.38,
+          "end": 283.08,
+          "word": "from",
+          "probability": 0.9959506988525391
+        },
+        {
+          "start": 283.08,
+          "end": 283.42,
+          "word": "3",
+          "probability": 0.9791631102561951
+        },
+        {
+          "start": 283.42,
+          "end": 283.82,
+          "word": "%",
+          "probability": 0.8909123539924622
+        }
+      ]
+    },
+    {
+      "start": 283.82,
+      "end": 285.08,
+      "text": "to 6%.",
+      "words": [
+        {
+          "start": 283.82,
+          "end": 284.24,
+          "word": "to",
+          "probability": 0.9880933165550232
+        },
+        {
+          "start": 284.24,
+          "end": 285.08,
+          "word": "6%.",
+          "probability": 0.947464108467102
+        }
+      ]
+    },
+    {
+      "start": 285.08,
+      "end": 288.1,
+      "text": "Your contribution increases to $4,800.",
+      "words": [
+        {
+          "start": 285.08,
+          "end": 285.58,
+          "word": "Your",
+          "probability": 0.9866611361503601
+        },
+        {
+          "start": 285.58,
+          "end": 286.06,
+          "word": "contribution",
+          "probability": 0.9969497323036194
+        },
+        {
+          "start": 286.06,
+          "end": 286.78,
+          "word": "increases",
+          "probability": 0.9964680671691895
+        },
+        {
+          "start": 286.78,
+          "end": 287.2,
+          "word": "to",
+          "probability": 0.9952736496925354
+        },
+        {
+          "start": 287.2,
+          "end": 287.48,
+          "word": "$4",
+          "probability": 0.9420730769634247
+        },
+        {
+          "start": 287.48,
+          "end": 288.1,
+          "word": ",800.",
+          "probability": 0.9971943497657776
+        }
+      ]
+    },
+    {
+      "start": 288.92,
+      "end": 293.0,
+      "text": "The employer match increases from $1,200 to $2,400.",
+      "words": [
+        {
+          "start": 288.92,
+          "end": 289.2,
+          "word": "The",
+          "probability": 0.9934316277503967
+        },
+        {
+          "start": 289.2,
+          "end": 289.48,
+          "word": "employer",
+          "probability": 0.9955981373786926
+        },
+        {
+          "start": 289.48,
+          "end": 289.94,
+          "word": "match",
+          "probability": 0.9910423755645752
+        },
+        {
+          "start": 289.94,
+          "end": 290.36,
+          "word": "increases",
+          "probability": 0.9987051486968994
+        },
+        {
+          "start": 290.36,
+          "end": 290.74,
+          "word": "from",
+          "probability": 0.9987280964851379
+        },
+        {
+          "start": 290.74,
+          "end": 290.94,
+          "word": "$1",
+          "probability": 0.9931848347187042
+        },
+        {
+          "start": 290.94,
+          "end": 291.38,
+          "word": ",200",
+          "probability": 0.9981023371219635
+        },
+        {
+          "start": 291.38,
+          "end": 292.1,
+          "word": "to",
+          "probability": 0.9881829619407654
+        },
+        {
+          "start": 292.1,
+          "end": 292.36,
+          "word": "$2",
+          "probability": 0.8368085026741028
+        },
+        {
+          "start": 292.36,
+          "end": 293.0,
+          "word": ",400.",
+          "probability": 0.9982768893241882
+        }
+      ]
+    },
+    {
+      "start": 293.84,
+      "end": 296.8,
+      "text": "That is an additional $1,200 per year",
+      "words": [
+        {
+          "start": 293.84,
+          "end": 294.18,
+          "word": "That",
+          "probability": 0.9967317581176758
+        },
+        {
+          "start": 294.18,
+          "end": 294.44,
+          "word": "is",
+          "probability": 0.9916287660598755
+        },
+        {
+          "start": 294.44,
+          "end": 294.56,
+          "word": "an",
+          "probability": 0.9967367053031921
+        },
+        {
+          "start": 294.56,
+          "end": 294.84,
+          "word": "additional",
+          "probability": 0.9990807771682739
+        },
+        {
+          "start": 294.84,
+          "end": 295.32,
+          "word": "$1",
+          "probability": 0.9957000315189362
+        },
+        {
+          "start": 295.32,
+          "end": 295.84,
+          "word": ",200",
+          "probability": 0.9964919686317444
+        },
+        {
+          "start": 295.84,
+          "end": 296.44,
+          "word": "per",
+          "probability": 0.9662884473800659
+        },
+        {
+          "start": 296.44,
+          "end": 296.8,
+          "word": "year",
+          "probability": 0.9992232322692871
+        }
+      ]
+    },
+    {
+      "start": 296.8,
+      "end": 299.06,
+      "text": "from the employer under this example plan.",
+      "words": [
+        {
+          "start": 296.8,
+          "end": 297.04,
+          "word": "from",
+          "probability": 0.9876775145530701
+        },
+        {
+          "start": 297.04,
+          "end": 297.18,
+          "word": "the",
+          "probability": 0.9958391189575195
+        },
+        {
+          "start": 297.18,
+          "end": 297.56,
+          "word": "employer",
+          "probability": 0.9977834820747375
+        },
+        {
+          "start": 297.56,
+          "end": 297.96,
+          "word": "under",
+          "probability": 0.9769118428230286
+        },
+        {
+          "start": 297.96,
+          "end": 298.32,
+          "word": "this",
+          "probability": 0.9978103041648865
+        },
+        {
+          "start": 298.32,
+          "end": 298.62,
+          "word": "example",
+          "probability": 0.9823068976402283
+        },
+        {
+          "start": 298.62,
+          "end": 299.06,
+          "word": "plan.",
+          "probability": 0.9983372688293457
+        }
+      ]
+    },
+    {
+      "start": 299.7,
+      "end": 301.78,
+      "text": "Move the contribution above 6%",
+      "words": [
+        {
+          "start": 299.7,
+          "end": 299.9,
+          "word": "Move",
+          "probability": 0.9885960221290588
+        },
+        {
+          "start": 299.9,
+          "end": 300.06,
+          "word": "the",
+          "probability": 0.9992176294326782
+        },
+        {
+          "start": 300.06,
+          "end": 300.52,
+          "word": "contribution",
+          "probability": 0.9982693195343018
+        },
+        {
+          "start": 300.52,
+          "end": 301.08,
+          "word": "above",
+          "probability": 0.9993396401405334
+        },
+        {
+          "start": 301.08,
+          "end": 301.42,
+          "word": "6",
+          "probability": 0.9946417808532715
+        },
+        {
+          "start": 301.42,
+          "end": 301.78,
+          "word": "%",
+          "probability": 0.5762103796005249
+        }
+      ]
+    },
+    {
+      "start": 301.78,
+      "end": 304.42,
+      "text": "and your own contribution continues increasing",
+      "words": [
+        {
+          "start": 301.78,
+          "end": 302.28,
+          "word": "and",
+          "probability": 0.9974513649940491
+        },
+        {
+          "start": 302.28,
+          "end": 302.42,
+          "word": "your",
+          "probability": 0.9965298771858215
+        },
+        {
+          "start": 302.42,
+          "end": 302.66,
+          "word": "own",
+          "probability": 0.9977391958236694
+        },
+        {
+          "start": 302.66,
+          "end": 303.08,
+          "word": "contribution",
+          "probability": 0.9973986148834229
+        },
+        {
+          "start": 303.08,
+          "end": 303.76,
+          "word": "continues",
+          "probability": 0.9945095181465149
+        },
+        {
+          "start": 303.76,
+          "end": 304.42,
+          "word": "increasing",
+          "probability": 0.9975874423980713
+        }
+      ]
+    },
+    {
+      "start": 304.42,
+      "end": 308.14,
+      "text": "while the employer match remains capped at $2400.",
+      "words": [
+        {
+          "start": 304.42,
+          "end": 305.14,
+          "word": "while",
+          "probability": 0.2871760129928589
+        },
+        {
+          "start": 305.14,
+          "end": 305.3,
+          "word": "the",
+          "probability": 0.990938663482666
+        },
+        {
+          "start": 305.3,
+          "end": 305.66,
+          "word": "employer",
+          "probability": 0.8612246513366699
+        },
+        {
+          "start": 305.66,
+          "end": 305.96,
+          "word": "match",
+          "probability": 0.9515597224235535
+        },
+        {
+          "start": 305.96,
+          "end": 306.44,
+          "word": "remains",
+          "probability": 0.9899311065673828
+        },
+        {
+          "start": 306.44,
+          "end": 306.82,
+          "word": "capped",
+          "probability": 0.9818275570869446
+        },
+        {
+          "start": 306.82,
+          "end": 307.18,
+          "word": "at",
+          "probability": 0.9933859705924988
+        },
+        {
+          "start": 307.18,
+          "end": 308.14,
+          "word": "$2400.",
+          "probability": 0.8459938168525696
+        }
+      ]
+    },
+    {
+      "start": 308.86,
+      "end": 311.16,
+      "text": "This makes the relationship easier to see.",
+      "words": [
+        {
+          "start": 308.86,
+          "end": 309.18,
+          "word": "This",
+          "probability": 0.992085874080658
+        },
+        {
+          "start": 309.18,
+          "end": 309.42,
+          "word": "makes",
+          "probability": 0.9982861876487732
+        },
+        {
+          "start": 309.42,
+          "end": 309.62,
+          "word": "the",
+          "probability": 0.996296226978302
+        },
+        {
+          "start": 309.62,
+          "end": 309.96,
+          "word": "relationship",
+          "probability": 0.9991599321365356
+        },
+        {
+          "start": 309.96,
+          "end": 310.6,
+          "word": "easier",
+          "probability": 0.9975144863128662
+        },
+        {
+          "start": 310.6,
+          "end": 310.92,
+          "word": "to",
+          "probability": 0.9940130114555359
+        },
+        {
+          "start": 310.92,
+          "end": 311.16,
+          "word": "see.",
+          "probability": 0.9990333318710327
+        }
+      ]
+    },
+    {
+      "start": 311.82,
+      "end": 313.56,
+      "text": "Your salary establishes the base.",
+      "words": [
+        {
+          "start": 311.82,
+          "end": 311.9,
+          "word": "Your",
+          "probability": 0.9329915046691895
+        },
+        {
+          "start": 311.9,
+          "end": 312.24,
+          "word": "salary",
+          "probability": 0.9933294057846069
+        },
+        {
+          "start": 312.24,
+          "end": 313.0,
+          "word": "establishes",
+          "probability": 0.993478536605835
+        },
+        {
+          "start": 313.0,
+          "end": 313.32,
+          "word": "the",
+          "probability": 0.9987887740135193
+        },
+        {
+          "start": 313.32,
+          "end": 313.56,
+          "word": "base.",
+          "probability": 0.9966791868209839
+        }
+      ]
+    },
+    {
+      "start": 314.24,
+      "end": 316.84,
+      "text": "Your contribution rate controls how much you put in.",
+      "words": [
+        {
+          "start": 314.24,
+          "end": 314.32,
+          "word": "Your",
+          "probability": 0.9935729503631592
+        },
+        {
+          "start": 314.32,
+          "end": 314.76,
+          "word": "contribution",
+          "probability": 0.9807780981063843
+        },
+        {
+          "start": 314.76,
+          "end": 315.24,
+          "word": "rate",
+          "probability": 0.9974818825721741
+        },
+        {
+          "start": 315.24,
+          "end": 315.54,
+          "word": "controls",
+          "probability": 0.9947940707206726
+        },
+        {
+          "start": 315.54,
+          "end": 316.04,
+          "word": "how",
+          "probability": 0.9988462924957275
+        },
+        {
+          "start": 316.04,
+          "end": 316.26,
+          "word": "much",
+          "probability": 0.999588668346405
+        },
+        {
+          "start": 316.26,
+          "end": 316.44,
+          "word": "you",
+          "probability": 0.9988529682159424
+        },
+        {
+          "start": 316.44,
+          "end": 316.62,
+          "word": "put",
+          "probability": 0.9979290962219238
+        },
+        {
+          "start": 316.62,
+          "end": 316.84,
+          "word": "in.",
+          "probability": 0.9981984496116638
+        }
+      ]
+    },
+    {
+      "start": 317.38,
+      "end": 319.58,
+      "text": "The match rate determines the employer's share",
+      "words": [
+        {
+          "start": 317.38,
+          "end": 317.48,
+          "word": "The",
+          "probability": 0.9910162687301636
+        },
+        {
+          "start": 317.48,
+          "end": 317.7,
+          "word": "match",
+          "probability": 0.9223705530166626
+        },
+        {
+          "start": 317.7,
+          "end": 318.0,
+          "word": "rate",
+          "probability": 0.9867718815803528
+        },
+        {
+          "start": 318.0,
+          "end": 318.42,
+          "word": "determines",
+          "probability": 0.9991033673286438
+        },
+        {
+          "start": 318.42,
+          "end": 318.8,
+          "word": "the",
+          "probability": 0.9975411891937256
+        },
+        {
+          "start": 318.8,
+          "end": 319.4,
+          "word": "employer's",
+          "probability": 0.95613694190979
+        },
+        {
+          "start": 319.4,
+          "end": 319.58,
+          "word": "share",
+          "probability": 0.9982158541679382
+        }
+      ]
+    },
+    {
+      "start": 319.58,
+      "end": 321.44,
+      "text": "and the match limit determines",
+      "words": [
+        {
+          "start": 319.58,
+          "end": 320.22,
+          "word": "and",
+          "probability": 0.22110769152641296
+        },
+        {
+          "start": 320.22,
+          "end": 320.34,
+          "word": "the",
+          "probability": 0.9981789588928223
+        },
+        {
+          "start": 320.34,
+          "end": 320.52,
+          "word": "match",
+          "probability": 0.9654979109764099
+        },
+        {
+          "start": 320.52,
+          "end": 320.88,
+          "word": "limit",
+          "probability": 0.989561140537262
+        },
+        {
+          "start": 320.88,
+          "end": 321.44,
+          "word": "determines",
+          "probability": 0.9984627962112427
+        }
+      ]
+    },
+    {
+      "start": 321.44,
+      "end": 323.66,
+      "text": "where that employer contribution stops.",
+      "words": [
+        {
+          "start": 321.44,
+          "end": 321.94,
+          "word": "where",
+          "probability": 0.9983554482460022
+        },
+        {
+          "start": 321.94,
+          "end": 322.16,
+          "word": "that",
+          "probability": 0.9873446822166443
+        },
+        {
+          "start": 322.16,
+          "end": 322.52,
+          "word": "employer",
+          "probability": 0.9802199006080627
+        },
+        {
+          "start": 322.52,
+          "end": 323.06,
+          "word": "contribution",
+          "probability": 0.9749593734741211
+        },
+        {
+          "start": 323.06,
+          "end": 323.66,
+          "word": "stops.",
+          "probability": 0.9987309575080872
+        }
+      ]
+    },
+    {
+      "start": 324.38,
+      "end": 326.4,
+      "text": "Before changing your contribution, however,",
+      "words": [
+        {
+          "start": 324.38,
+          "end": 324.68,
+          "word": "Before",
+          "probability": 0.9962069988250732
+        },
+        {
+          "start": 324.68,
+          "end": 325.08,
+          "word": "changing",
+          "probability": 0.9987524747848511
+        },
+        {
+          "start": 325.08,
+          "end": 325.32,
+          "word": "your",
+          "probability": 0.998588502407074
+        },
+        {
+          "start": 325.32,
+          "end": 325.94,
+          "word": "contribution,",
+          "probability": 0.9956242442131042
+        },
+        {
+          "start": 326.14,
+          "end": 326.4,
+          "word": "however,",
+          "probability": 0.9996612071990967
+        }
+      ]
+    },
+    {
+      "start": 326.82,
+      "end": 328.9,
+      "text": "check the details of your actual plan.",
+      "words": [
+        {
+          "start": 326.82,
+          "end": 327.06,
+          "word": "check",
+          "probability": 0.9981544613838196
+        },
+        {
+          "start": 327.06,
+          "end": 327.26,
+          "word": "the",
+          "probability": 0.9985355138778687
+        },
+        {
+          "start": 327.26,
+          "end": 327.68,
+          "word": "details",
+          "probability": 0.9985828399658203
+        },
+        {
+          "start": 327.68,
+          "end": 327.98,
+          "word": "of",
+          "probability": 0.999152660369873
+        },
+        {
+          "start": 327.98,
+          "end": 328.08,
+          "word": "your",
+          "probability": 0.9981769323348999
+        },
+        {
+          "start": 328.08,
+          "end": 328.44,
+          "word": "actual",
+          "probability": 0.9977222084999084
+        },
+        {
+          "start": 328.44,
+          "end": 328.9,
+          "word": "plan.",
+          "probability": 0.9991104006767273
+        }
+      ]
+    },
+    {
+      "start": 329.44,
+      "end": 331.02,
+      "text": "Employer match formulas vary.",
+      "words": [
+        {
+          "start": 329.44,
+          "end": 329.96,
+          "word": "Employer",
+          "probability": 0.8150749504566193
+        },
+        {
+          "start": 329.96,
+          "end": 330.18,
+          "word": "match",
+          "probability": 0.9470555782318115
+        },
+        {
+          "start": 330.18,
+          "end": 330.56,
+          "word": "formulas",
+          "probability": 0.9932667016983032
+        },
+        {
+          "start": 330.56,
+          "end": 331.02,
+          "word": "vary.",
+          "probability": 0.9991565942764282
+        }
+      ]
+    },
+    {
+      "start": 331.8,
+      "end": 333.58,
+      "text": "Some employers match dollar for dollar.",
+      "words": [
+        {
+          "start": 331.8,
+          "end": 331.92,
+          "word": "Some",
+          "probability": 0.9972284436225891
+        },
+        {
+          "start": 331.92,
+          "end": 332.24,
+          "word": "employers",
+          "probability": 0.9971434473991394
+        },
+        {
+          "start": 332.24,
+          "end": 332.7,
+          "word": "match",
+          "probability": 0.9932247996330261
+        },
+        {
+          "start": 332.7,
+          "end": 333.04,
+          "word": "dollar",
+          "probability": 0.9059399366378784
+        },
+        {
+          "start": 333.04,
+          "end": 333.3,
+          "word": "for",
+          "probability": 0.8682250380516052
+        },
+        {
+          "start": 333.3,
+          "end": 333.58,
+          "word": "dollar.",
+          "probability": 0.997729480266571
+        }
+      ]
+    },
+    {
+      "start": 334.14,
+      "end": 336.12,
+      "text": "Some contribute $0.50 per dollar.",
+      "words": [
+        {
+          "start": 334.02,
+          "end": 334.34,
+          "word": "Some",
+          "probability": 0.577226996421814
+        },
+        {
+          "start": 334.34,
+          "end": 334.68,
+          "word": "contribute",
+          "probability": 0.9697701930999756
+        },
+        {
+          "start": 334.68,
+          "end": 335.16,
+          "word": "$0",
+          "probability": 0.6108395159244537
+        },
+        {
+          "start": 335.16,
+          "end": 335.4,
+          "word": ".50",
+          "probability": 0.9762017726898193
+        },
+        {
+          "start": 335.4,
+          "end": 335.84,
+          "word": "per",
+          "probability": 0.9451128244400024
+        },
+        {
+          "start": 335.84,
+          "end": 336.12,
+          "word": "dollar.",
+          "probability": 0.981745183467865
+        }
+      ]
+    },
+    {
+      "start": 337.06,
+      "end": 338.5,
+      "text": "Others use multiple matching tiers",
+      "words": [
+        {
+          "start": 337.06,
+          "end": 337.06,
+          "word": "Others",
+          "probability": 0.9934371113777161
+        },
+        {
+          "start": 337.06,
+          "end": 337.28,
+          "word": "use",
+          "probability": 0.9585741758346558
+        },
+        {
+          "start": 337.28,
+          "end": 337.72,
+          "word": "multiple",
+          "probability": 0.9967383742332458
+        },
+        {
+          "start": 337.72,
+          "end": 338.2,
+          "word": "matching",
+          "probability": 0.9808210134506226
+        },
+        {
+          "start": 338.2,
+          "end": 338.5,
+          "word": "tiers",
+          "probability": 0.9591301679611206
+        }
+      ]
+    },
+    {
+      "start": 339.02,
+      "end": 340.54,
+      "text": "or make non-elective contributions.",
+      "words": [
+        {
+          "start": 338.88,
+          "end": 339.2,
+          "word": "or",
+          "probability": 0.6467915773391724
+        },
+        {
+          "start": 339.2,
+          "end": 339.52,
+          "word": "make",
+          "probability": 0.9980635046958923
+        },
+        {
+          "start": 339.52,
+          "end": 339.82,
+          "word": "non",
+          "probability": 0.9870914220809937
+        },
+        {
+          "start": 339.82,
+          "end": 340.3,
+          "word": "-elective",
+          "probability": 0.9209410349527994
+        },
+        {
+          "start": 340.3,
+          "end": 340.54,
+          "word": "contributions.",
+          "probability": 0.9971441626548767
+        }
+      ]
+    },
+    {
+      "start": 341.6,
+      "end": 344.6,
+      "text": "Some plans calculate matching contributions every paycheck.",
+      "words": [
+        {
+          "start": 341.6,
+          "end": 341.82,
+          "word": "Some",
+          "probability": 0.9934951663017273
+        },
+        {
+          "start": 341.82,
+          "end": 342.14,
+          "word": "plans",
+          "probability": 0.9540649056434631
+        },
+        {
+          "start": 342.14,
+          "end": 342.56,
+          "word": "calculate",
+          "probability": 0.9982033967971802
+        },
+        {
+          "start": 342.56,
+          "end": 342.96,
+          "word": "matching",
+          "probability": 0.9961585402488708
+        },
+        {
+          "start": 342.96,
+          "end": 343.64,
+          "word": "contributions",
+          "probability": 0.994088888168335
+        },
+        {
+          "start": 343.64,
+          "end": 344.22,
+          "word": "every",
+          "probability": 0.9900087118148804
+        },
+        {
+          "start": 344.22,
+          "end": 344.6,
+          "word": "paycheck.",
+          "probability": 0.9894796013832092
+        }
+      ]
+    },
+    {
+      "start": 345.3,
+      "end": 347.96,
+      "text": "If you reach the annual contribution limit too early,",
+      "words": [
+        {
+          "start": 345.3,
+          "end": 345.48,
+          "word": "If",
+          "probability": 0.9985122084617615
+        },
+        {
+          "start": 345.48,
+          "end": 345.6,
+          "word": "you",
+          "probability": 0.999471127986908
+        },
+        {
+          "start": 345.6,
+          "end": 345.76,
+          "word": "reach",
+          "probability": 0.9679862856864929
+        },
+        {
+          "start": 345.76,
+          "end": 346.0,
+          "word": "the",
+          "probability": 0.998982846736908
+        },
+        {
+          "start": 346.0,
+          "end": 346.32,
+          "word": "annual",
+          "probability": 0.9764565229415894
+        },
+        {
+          "start": 346.32,
+          "end": 346.7,
+          "word": "contribution",
+          "probability": 0.9756876230239868
+        },
+        {
+          "start": 346.7,
+          "end": 347.32,
+          "word": "limit",
+          "probability": 0.9990466237068176
+        },
+        {
+          "start": 347.32,
+          "end": 347.58,
+          "word": "too",
+          "probability": 0.9934688806533813
+        },
+        {
+          "start": 347.58,
+          "end": 347.96,
+          "word": "early,",
+          "probability": 0.9997696280479431
+        }
+      ]
+    },
+    {
+      "start": 348.44,
+      "end": 350.94,
+      "text": "you could miss matching contributions later in the year.",
+      "words": [
+        {
+          "start": 348.44,
+          "end": 348.52,
+          "word": "you",
+          "probability": 0.9972838163375854
+        },
+        {
+          "start": 348.52,
+          "end": 348.74,
+          "word": "could",
+          "probability": 0.997485876083374
+        },
+        {
+          "start": 348.74,
+          "end": 348.98,
+          "word": "miss",
+          "probability": 0.9993183612823486
+        },
+        {
+          "start": 348.98,
+          "end": 349.36,
+          "word": "matching",
+          "probability": 0.9945647716522217
+        },
+        {
+          "start": 349.36,
+          "end": 349.72,
+          "word": "contributions",
+          "probability": 0.9933263063430786
+        },
+        {
+          "start": 349.72,
+          "end": 350.38,
+          "word": "later",
+          "probability": 0.9991183876991272
+        },
+        {
+          "start": 350.38,
+          "end": 350.62,
+          "word": "in",
+          "probability": 0.9987891316413879
+        },
+        {
+          "start": 350.62,
+          "end": 350.72,
+          "word": "the",
+          "probability": 0.9986138343811035
+        },
+        {
+          "start": 350.72,
+          "end": 350.94,
+          "word": "year.",
+          "probability": 0.9991117119789124
+        }
+      ]
+    },
+    {
+      "start": 351.52,
+      "end": 353.98,
+      "text": "Some employers provide a year-end true-up",
+      "words": [
+        {
+          "start": 351.52,
+          "end": 351.72,
+          "word": "Some",
+          "probability": 0.9970132112503052
+        },
+        {
+          "start": 351.72,
+          "end": 352.08,
+          "word": "employers",
+          "probability": 0.9969358444213867
+        },
+        {
+          "start": 352.08,
+          "end": 352.6,
+          "word": "provide",
+          "probability": 0.9980798959732056
+        },
+        {
+          "start": 352.6,
+          "end": 352.88,
+          "word": "a",
+          "probability": 0.998471200466156
+        },
+        {
+          "start": 352.88,
+          "end": 353.12,
+          "word": "year",
+          "probability": 0.9958437085151672
+        },
+        {
+          "start": 353.12,
+          "end": 353.38,
+          "word": "-end",
+          "probability": 0.955845445394516
+        },
+        {
+          "start": 353.38,
+          "end": 353.7,
+          "word": "true",
+          "probability": 0.8780027627944946
+        },
+        {
+          "start": 353.7,
+          "end": 353.98,
+          "word": "-up",
+          "probability": 0.8953787386417389
+        }
+      ]
+    },
+    {
+      "start": 353.98,
+      "end": 355.56,
+      "text": "that may reconcile those differences.",
+      "words": [
+        {
+          "start": 353.98,
+          "end": 354.22,
+          "word": "that",
+          "probability": 0.9979844093322754
+        },
+        {
+          "start": 354.22,
+          "end": 354.42,
+          "word": "may",
+          "probability": 0.999025821685791
+        },
+        {
+          "start": 354.42,
+          "end": 354.82,
+          "word": "reconcile",
+          "probability": 0.9991984963417053
+        },
+        {
+          "start": 354.82,
+          "end": 355.28,
+          "word": "those",
+          "probability": 0.9966083765029907
+        },
+        {
+          "start": 355.28,
+          "end": 355.56,
+          "word": "differences.",
+          "probability": 0.998573899269104
+        }
+      ]
+    },
+    {
+      "start": 356.42,
+      "end": 357.14,
+      "text": "Others do not.",
+      "words": [
+        {
+          "start": 356.42,
+          "end": 356.62,
+          "word": "Others",
+          "probability": 0.9640927910804749
+        },
+        {
+          "start": 356.62,
+          "end": 356.92,
+          "word": "do",
+          "probability": 0.9933891296386719
+        },
+        {
+          "start": 356.92,
+          "end": 357.14,
+          "word": "not.",
+          "probability": 0.9996494054794312
+        }
+      ]
+    },
+    {
+      "start": 357.88,
+      "end": 359.06,
+      "text": "Vesting also matters.",
+      "words": [
+        {
+          "start": 357.88,
+          "end": 358.2,
+          "word": "Vesting",
+          "probability": 0.7217159867286682
+        },
+        {
+          "start": 358.2,
+          "end": 358.54,
+          "word": "also",
+          "probability": 0.9976277947425842
+        },
+        {
+          "start": 358.54,
+          "end": 359.06,
+          "word": "matters.",
+          "probability": 0.9978963136672974
+        }
+      ]
+    },
+    {
+      "start": 359.8,
+      "end": 361.36,
+      "text": "Your own contributions are yours,",
+      "words": [
+        {
+          "start": 359.8,
+          "end": 359.82,
+          "word": "Your",
+          "probability": 0.9909070730209351
+        },
+        {
+          "start": 359.82,
+          "end": 360.06,
+          "word": "own",
+          "probability": 0.9982341527938843
+        },
+        {
+          "start": 360.06,
+          "end": 360.42,
+          "word": "contributions",
+          "probability": 0.9970536231994629
+        },
+        {
+          "start": 360.42,
+          "end": 361.12,
+          "word": "are",
+          "probability": 0.9992774128913879
+        },
+        {
+          "start": 361.12,
+          "end": 361.36,
+          "word": "yours,",
+          "probability": 0.9884904623031616
+        }
+      ]
+    },
+    {
+      "start": 361.92,
+      "end": 365.34,
+      "text": "but employer contributions may be subject to a vesting schedule.",
+      "words": [
+        {
+          "start": 361.76000000000005,
+          "end": 362.1,
+          "word": "but",
+          "probability": 0.06217958405613899
+        },
+        {
+          "start": 362.1,
+          "end": 362.5,
+          "word": "employer",
+          "probability": 0.9805597066879272
+        },
+        {
+          "start": 362.5,
+          "end": 362.86,
+          "word": "contributions",
+          "probability": 0.9948037266731262
+        },
+        {
+          "start": 362.86,
+          "end": 363.64,
+          "word": "may",
+          "probability": 0.9673182368278503
+        },
+        {
+          "start": 363.64,
+          "end": 363.82,
+          "word": "be",
+          "probability": 0.9978858828544617
+        },
+        {
+          "start": 363.82,
+          "end": 364.18,
+          "word": "subject",
+          "probability": 0.9988227486610413
+        },
+        {
+          "start": 364.18,
+          "end": 364.52,
+          "word": "to",
+          "probability": 0.9985014200210571
+        },
+        {
+          "start": 364.52,
+          "end": 364.62,
+          "word": "a",
+          "probability": 0.9981483221054077
+        },
+        {
+          "start": 364.62,
+          "end": 365.06,
+          "word": "vesting",
+          "probability": 0.7499191761016846
+        },
+        {
+          "start": 365.06,
+          "end": 365.34,
+          "word": "schedule.",
+          "probability": 0.9959034323692322
+        }
+      ]
+    },
+    {
+      "start": 366.04,
+      "end": 368.48,
+      "text": "If you leave the company before becoming fully vested,",
+      "words": [
+        {
+          "start": 366.04,
+          "end": 366.12,
+          "word": "If",
+          "probability": 0.9926376342773438
+        },
+        {
+          "start": 366.12,
+          "end": 366.26,
+          "word": "you",
+          "probability": 0.999491810798645
+        },
+        {
+          "start": 366.26,
+          "end": 366.42,
+          "word": "leave",
+          "probability": 0.9992664456367493
+        },
+        {
+          "start": 366.42,
+          "end": 366.64,
+          "word": "the",
+          "probability": 0.9990699887275696
+        },
+        {
+          "start": 366.64,
+          "end": 366.96,
+          "word": "company",
+          "probability": 0.9984633922576904
+        },
+        {
+          "start": 366.96,
+          "end": 367.24,
+          "word": "before",
+          "probability": 0.9989126920700073
+        },
+        {
+          "start": 367.24,
+          "end": 367.84,
+          "word": "becoming",
+          "probability": 0.9978870749473572
+        },
+        {
+          "start": 367.84,
+          "end": 368.08,
+          "word": "fully",
+          "probability": 0.9993069171905518
+        },
+        {
+          "start": 368.08,
+          "end": 368.48,
+          "word": "vested,",
+          "probability": 0.9702525734901428
+        }
+      ]
+    },
+    {
+      "start": 369.08,
+      "end": 371.74,
+      "text": "you may not keep the entire employer-funded balance.",
+      "words": [
+        {
+          "start": 369.08,
+          "end": 369.16,
+          "word": "you",
+          "probability": 0.9977993369102478
+        },
+        {
+          "start": 369.16,
+          "end": 369.36,
+          "word": "may",
+          "probability": 0.9973421692848206
+        },
+        {
+          "start": 369.36,
+          "end": 369.56,
+          "word": "not",
+          "probability": 0.9993040561676025
+        },
+        {
+          "start": 369.56,
+          "end": 369.8,
+          "word": "keep",
+          "probability": 0.9984188079833984
+        },
+        {
+          "start": 369.8,
+          "end": 370.06,
+          "word": "the",
+          "probability": 0.9981966614723206
+        },
+        {
+          "start": 370.06,
+          "end": 370.34,
+          "word": "entire",
+          "probability": 0.9985495209693909
+        },
+        {
+          "start": 370.34,
+          "end": 370.96,
+          "word": "employer",
+          "probability": 0.9748680591583252
+        },
+        {
+          "start": 370.96,
+          "end": 371.3,
+          "word": "-funded",
+          "probability": 0.9063111543655396
+        },
+        {
+          "start": 371.3,
+          "end": 371.74,
+          "word": "balance.",
+          "probability": 0.997747004032135
+        }
+      ]
+    },
+    {
+      "start": 372.46,
+      "end": 374.06,
+      "text": "Review your summary plan description,",
+      "words": [
+        {
+          "start": 372.46,
+          "end": 372.64,
+          "word": "Review",
+          "probability": 0.9940594434738159
+        },
+        {
+          "start": 372.64,
+          "end": 373.0,
+          "word": "your",
+          "probability": 0.9977086782455444
+        },
+        {
+          "start": 373.0,
+          "end": 373.34,
+          "word": "summary",
+          "probability": 0.9242851734161377
+        },
+        {
+          "start": 373.34,
+          "end": 373.68,
+          "word": "plan",
+          "probability": 0.9060906171798706
+        },
+        {
+          "start": 373.68,
+          "end": 374.06,
+          "word": "description,",
+          "probability": 0.9986749291419983
+        }
+      ]
+    },
+    {
+      "start": 374.64,
+      "end": 377.3,
+      "text": "benefits portal, or plan administrator's guidance.",
+      "words": [
+        {
+          "start": 374.64,
+          "end": 374.94,
+          "word": "benefits",
+          "probability": 0.9851683378219604
+        },
+        {
+          "start": 374.94,
+          "end": 375.32,
+          "word": "portal,",
+          "probability": 0.9873512387275696
+        },
+        {
+          "start": 375.76,
+          "end": 375.92,
+          "word": "or",
+          "probability": 0.9990350008010864
+        },
+        {
+          "start": 375.92,
+          "end": 376.2,
+          "word": "plan",
+          "probability": 0.7385450601577759
+        },
+        {
+          "start": 376.2,
+          "end": 377.04,
+          "word": "administrator's",
+          "probability": 0.8953121602535248
+        },
+        {
+          "start": 377.04,
+          "end": 377.3,
+          "word": "guidance.",
+          "probability": 0.999414324760437
+        }
+      ]
+    },
+    {
+      "start": 378.0,
+      "end": 379.26,
+      "text": "Confirm the matching formula,",
+      "words": [
+        {
+          "start": 378.0,
+          "end": 378.38,
+          "word": "Confirm",
+          "probability": 0.996799498796463
+        },
+        {
+          "start": 378.38,
+          "end": 378.54,
+          "word": "the",
+          "probability": 0.9989238381385803
+        },
+        {
+          "start": 378.54,
+          "end": 378.84,
+          "word": "matching",
+          "probability": 0.9914588928222656
+        },
+        {
+          "start": 378.84,
+          "end": 379.26,
+          "word": "formula,",
+          "probability": 0.9965937733650208
+        }
+      ]
+    },
+    {
+      "start": 379.78,
+      "end": 380.58,
+      "text": "eligible compensation,",
+      "words": [
+        {
+          "start": 379.78,
+          "end": 379.96,
+          "word": "eligible",
+          "probability": 0.9719998836517334
+        },
+        {
+          "start": 379.96,
+          "end": 380.58,
+          "word": "compensation,",
+          "probability": 0.9998047947883606
+        }
+      ]
+    },
+    {
+      "start": 381.34,
+      "end": 382.2,
+      "text": "contribution timing,",
+      "words": [
+        {
+          "start": 381.34,
+          "end": 381.64,
+          "word": "contribution",
+          "probability": 0.9942169189453125
+        },
+        {
+          "start": 381.64,
+          "end": 382.2,
+          "word": "timing,",
+          "probability": 0.9928845167160034
+        }
+      ]
+    },
+    {
+      "start": 382.82,
+      "end": 383.4,
+      "text": "true-up policy,",
+      "words": [
+        {
+          "start": 382.82,
+          "end": 382.88,
+          "word": "true",
+          "probability": 0.8470147848129272
+        },
+        {
+          "start": 382.88,
+          "end": 383.06,
+          "word": "-up",
+          "probability": 0.7288721352815628
+        },
+        {
+          "start": 383.06,
+          "end": 383.4,
+          "word": "policy,",
+          "probability": 0.9974090456962585
+        }
+      ]
+    },
+    {
+      "start": 383.86,
+      "end": 384.86,
+      "text": "and vesting schedule.",
+      "words": [
+        {
+          "start": 383.86,
+          "end": 384.12,
+          "word": "and",
+          "probability": 0.9994250535964966
+        },
+        {
+          "start": 384.12,
+          "end": 384.58,
+          "word": "vesting",
+          "probability": 0.9926592111587524
+        },
+        {
+          "start": 384.58,
+          "end": 384.86,
+          "word": "schedule.",
+          "probability": 0.9980450868606567
+        }
+      ]
+    },
+    {
+      "start": 385.56,
+      "end": 386.7,
+      "text": "This video is educational",
+      "words": [
+        {
+          "start": 385.56,
+          "end": 385.72,
+          "word": "This",
+          "probability": 0.9975874423980713
+        },
+        {
+          "start": 385.72,
+          "end": 386.04,
+          "word": "video",
+          "probability": 0.998202919960022
+        },
+        {
+          "start": 386.04,
+          "end": 386.3,
+          "word": "is",
+          "probability": 0.9996941089630127
+        },
+        {
+          "start": 386.3,
+          "end": 386.7,
+          "word": "educational",
+          "probability": 0.988805890083313
+        }
+      ]
+    },
+    {
+      "start": 386.7,
+      "end": 389.16,
+      "text": "and does not provide financial, tax,",
+      "words": [
+        {
+          "start": 386.7,
+          "end": 387.36,
+          "word": "and",
+          "probability": 0.8768268823623657
+        },
+        {
+          "start": 387.36,
+          "end": 387.48,
+          "word": "does",
+          "probability": 0.9957374334335327
+        },
+        {
+          "start": 387.48,
+          "end": 387.7,
+          "word": "not",
+          "probability": 0.9997590184211731
+        },
+        {
+          "start": 387.7,
+          "end": 388.0,
+          "word": "provide",
+          "probability": 0.9995139837265015
+        },
+        {
+          "start": 388.0,
+          "end": 388.5,
+          "word": "financial,",
+          "probability": 0.9991002082824707
+        },
+        {
+          "start": 388.94,
+          "end": 389.16,
+          "word": "tax,",
+          "probability": 0.9952470660209656
+        }
+      ]
+    },
+    {
+      "start": 389.56,
+      "end": 390.46,
+      "text": "or investment advice.",
+      "words": [
+        {
+          "start": 389.56,
+          "end": 389.66,
+          "word": "or",
+          "probability": 0.9980277419090271
+        },
+        {
+          "start": 389.66,
+          "end": 389.92,
+          "word": "investment",
+          "probability": 0.9993835687637329
+        },
+        {
+          "start": 389.92,
+          "end": 390.46,
+          "word": "advice.",
+          "probability": 0.9994074106216431
+        }
+      ]
+    },
+    {
+      "start": 391.1,
+      "end": 393.58,
+      "text": "Now return to the $80,000 example.",
+      "words": [
+        {
+          "start": 391.04,
+          "end": 391.38,
+          "word": "Now",
+          "probability": 0.6910064816474915
+        },
+        {
+          "start": 391.38,
+          "end": 391.62,
+          "word": "return",
+          "probability": 0.8773326277732849
+        },
+        {
+          "start": 391.62,
+          "end": 392.0,
+          "word": "to",
+          "probability": 0.9961885809898376
+        },
+        {
+          "start": 392.0,
+          "end": 392.08,
+          "word": "the",
+          "probability": 0.9891622066497803
+        },
+        {
+          "start": 392.08,
+          "end": 392.44,
+          "word": "$80",
+          "probability": 0.9664393365383148
+        },
+        {
+          "start": 392.44,
+          "end": 392.84,
+          "word": ",000",
+          "probability": 0.9936791360378265
+        },
+        {
+          "start": 392.84,
+          "end": 393.58,
+          "word": "example.",
+          "probability": 0.9921488761901855
+        }
+      ]
+    },
+    {
+      "start": 394.14,
+      "end": 395.38,
+      "text": "At a 3% contribution,",
+      "words": [
+        {
+          "start": 394.14,
+          "end": 394.24,
+          "word": "At",
+          "probability": 0.9943445920944214
+        },
+        {
+          "start": 394.24,
+          "end": 394.3,
+          "word": "a",
+          "probability": 0.9930441975593567
+        },
+        {
+          "start": 394.3,
+          "end": 394.56,
+          "word": "3",
+          "probability": 0.9063848257064819
+        },
+        {
+          "start": 394.56,
+          "end": 394.9,
+          "word": "%",
+          "probability": 0.9114540219306946
+        },
+        {
+          "start": 394.9,
+          "end": 395.38,
+          "word": "contribution,",
+          "probability": 0.9854915738105774
+        }
+      ]
+    },
+    {
+      "start": 396.02,
+      "end": 397.6,
+      "text": "the employer adds $1,200.",
+      "words": [
+        {
+          "start": 396.02,
+          "end": 396.08,
+          "word": "the",
+          "probability": 0.9971227049827576
+        },
+        {
+          "start": 396.08,
+          "end": 396.38,
+          "word": "employer",
+          "probability": 0.9930692911148071
+        },
+        {
+          "start": 396.38,
+          "end": 396.86,
+          "word": "adds",
+          "probability": 0.9962673783302307
+        },
+        {
+          "start": 396.86,
+          "end": 397.14,
+          "word": "$1",
+          "probability": 0.8690100312232971
+        },
+        {
+          "start": 397.14,
+          "end": 397.6,
+          "word": ",200.",
+          "probability": 0.9932384192943573
+        }
+      ]
+    },
+    {
+      "start": 398.4,
+      "end": 399.82,
+      "text": "At a 6% contribution,",
+      "words": [
+        {
+          "start": 398.4,
+          "end": 398.68,
+          "word": "At",
+          "probability": 0.9903357028961182
+        },
+        {
+          "start": 398.68,
+          "end": 398.76,
+          "word": "a",
+          "probability": 0.9960708618164062
+        },
+        {
+          "start": 398.76,
+          "end": 399.0,
+          "word": "6",
+          "probability": 0.9835207462310791
+        },
+        {
+          "start": 399.0,
+          "end": 399.28,
+          "word": "%",
+          "probability": 0.9898669719696045
+        },
+        {
+          "start": 399.28,
+          "end": 399.82,
+          "word": "contribution,",
+          "probability": 0.9981005787849426
+        }
+      ]
+    },
+    {
+      "start": 400.44,
+      "end": 402.0,
+      "text": "the employer adds $2,400.",
+      "words": [
+        {
+          "start": 400.44,
+          "end": 400.5,
+          "word": "the",
+          "probability": 0.9988020658493042
+        },
+        {
+          "start": 400.5,
+          "end": 400.78,
+          "word": "employer",
+          "probability": 0.997533917427063
+        },
+        {
+          "start": 400.78,
+          "end": 401.26,
+          "word": "adds",
+          "probability": 0.9904019236564636
+        },
+        {
+          "start": 401.26,
+          "end": 401.58,
+          "word": "$2",
+          "probability": 0.6558104604482651
+        },
+        {
+          "start": 401.58,
+          "end": 402.0,
+          "word": ",400.",
+          "probability": 0.9979857802391052
+        }
+      ]
+    },
+    {
+      "start": 403.22,
+      "end": 405.36,
+      "text": "The difference is an additional $1,200",
+      "words": [
+        {
+          "start": 403.22,
+          "end": 403.32,
+          "word": "The",
+          "probability": 0.9952113032341003
+        },
+        {
+          "start": 403.32,
+          "end": 403.68,
+          "word": "difference",
+          "probability": 0.9979451298713684
+        },
+        {
+          "start": 403.68,
+          "end": 404.02,
+          "word": "is",
+          "probability": 0.9970890879631042
+        },
+        {
+          "start": 404.02,
+          "end": 404.14,
+          "word": "an",
+          "probability": 0.9950934648513794
+        },
+        {
+          "start": 404.14,
+          "end": 404.4,
+          "word": "additional",
+          "probability": 0.9984757304191589
+        },
+        {
+          "start": 404.4,
+          "end": 404.88,
+          "word": "$1",
+          "probability": 0.9952244460582733
+        },
+        {
+          "start": 404.88,
+          "end": 405.36,
+          "word": ",200",
+          "probability": 0.9958854615688324
+        }
+      ]
+    },
+    {
+      "start": 405.36,
+      "end": 407.84,
+      "text": "of employer contribution each year.",
+      "words": [
+        {
+          "start": 405.36,
+          "end": 405.94,
+          "word": "of",
+          "probability": 0.9925866723060608
+        },
+        {
+          "start": 405.94,
+          "end": 406.28,
+          "word": "employer",
+          "probability": 0.9822401404380798
+        },
+        {
+          "start": 406.28,
+          "end": 406.68,
+          "word": "contribution",
+          "probability": 0.9975255131721497
+        },
+        {
+          "start": 406.68,
+          "end": 407.46,
+          "word": "each",
+          "probability": 0.9960111379623413
+        },
+        {
+          "start": 407.46,
+          "end": 407.84,
+          "word": "year.",
+          "probability": 0.9998352527618408
+        }
+      ]
+    },
+    {
+      "start": 408.46,
+      "end": 410.2,
+      "text": "Before choosing your contribution rate,",
+      "words": [
+        {
+          "start": 408.46,
+          "end": 408.66,
+          "word": "Before",
+          "probability": 0.9974539875984192
+        },
+        {
+          "start": 408.66,
+          "end": 409.14,
+          "word": "choosing",
+          "probability": 0.9986588954925537
+        },
+        {
+          "start": 409.14,
+          "end": 409.3,
+          "word": "your",
+          "probability": 0.9977055191993713
+        },
+        {
+          "start": 409.3,
+          "end": 409.74,
+          "word": "contribution",
+          "probability": 0.985310435295105
+        },
+        {
+          "start": 409.74,
+          "end": 410.2,
+          "word": "rate,",
+          "probability": 0.997056245803833
+        }
+      ]
+    },
+    {
+      "start": 410.54,
+      "end": 413.34,
+      "text": "understand exactly how your employer match works.",
+      "words": [
+        {
+          "start": 410.54,
+          "end": 410.78,
+          "word": "understand",
+          "probability": 0.9940176010131836
+        },
+        {
+          "start": 410.78,
+          "end": 411.72,
+          "word": "exactly",
+          "probability": 0.9974148273468018
+        },
+        {
+          "start": 411.72,
+          "end": 412.12,
+          "word": "how",
+          "probability": 0.999309778213501
+        },
+        {
+          "start": 412.12,
+          "end": 412.28,
+          "word": "your",
+          "probability": 0.9976497292518616
+        },
+        {
+          "start": 412.28,
+          "end": 412.66,
+          "word": "employer",
+          "probability": 0.9924622774124146
+        },
+        {
+          "start": 412.66,
+          "end": 412.94,
+          "word": "match",
+          "probability": 0.9689821004867554
+        },
+        {
+          "start": 412.94,
+          "end": 413.34,
+          "word": "works.",
+          "probability": 0.9997288584709167
+        }
+      ]
+    },
+    {
+      "start": 414.02,
+      "end": 414.94,
+      "text": "Test your own numbers",
+      "words": [
+        {
+          "start": 414.02,
+          "end": 414.16,
+          "word": "Test",
+          "probability": 0.9859644174575806
+        },
+        {
+          "start": 414.16,
+          "end": 414.42,
+          "word": "your",
+          "probability": 0.997334897518158
+        },
+        {
+          "start": 414.42,
+          "end": 414.6,
+          "word": "own",
+          "probability": 0.997431218624115
+        },
+        {
+          "start": 414.6,
+          "end": 414.94,
+          "word": "numbers",
+          "probability": 0.9989452958106995
+        }
+      ]
+    },
+    {
+      "start": 414.94,
+      "end": 418.22,
+      "text": "with the CALC matrix 401k employer match calculator",
+      "words": [
+        {
+          "start": 414.94,
+          "end": 415.24,
+          "word": "with",
+          "probability": 0.9975411891937256
+        },
+        {
+          "start": 415.24,
+          "end": 415.38,
+          "word": "the",
+          "probability": 0.9847455620765686
+        },
+        {
+          "start": 415.38,
+          "end": 415.7,
+          "word": "CALC",
+          "probability": 0.5804233178496361
+        },
+        {
+          "start": 415.7,
+          "end": 416.0,
+          "word": "matrix",
+          "probability": 0.5693889260292053
+        },
+        {
+          "start": 416.0,
+          "end": 417.04,
+          "word": "401k",
+          "probability": 0.5940941646695137
+        },
+        {
+          "start": 417.04,
+          "end": 417.52,
+          "word": "employer",
+          "probability": 0.8105602264404297
+        },
+        {
+          "start": 417.52,
+          "end": 417.86,
+          "word": "match",
+          "probability": 0.9197012782096863
+        },
+        {
+          "start": 417.86,
+          "end": 418.22,
+          "word": "calculator",
+          "probability": 0.9986483454704285
+        }
+      ]
+    },
+    {
+      "start": 418.22,
+      "end": 420.36,
+      "text": "at calchmatrix.net.",
+      "words": [
+        {
+          "start": 418.22,
+          "end": 419.0,
+          "word": "at",
+          "probability": 0.10940737277269363
+        },
+        {
+          "start": 419.0,
+          "end": 419.74,
+          "word": "calchmatrix",
+          "probability": 0.6306294873356819
+        },
+        {
+          "start": 419.74,
+          "end": 420.36,
+          "word": ".net.",
+          "probability": 0.9928543865680695
+        }
+      ]
+    }
+  ]
+}

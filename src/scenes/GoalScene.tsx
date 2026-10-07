@@ -1,0 +1,5 @@
+import {Flag,Check} from 'lucide-react';
+import {SceneFrame,type Props} from './SceneFrame';
+import {reveal} from '../motion/interpolate';
+import {DrawArrow} from '../components/Drawing';
+export function GoalScene({time:t,reduced}:Props){return <SceneFrame title="A match threshold. Not your whole retirement plan." kicker="04 / KEEP THE TWO DECISIONS SEPARATE" time={t} at={156.06} reduced={reduced}><div className="goal-stop"><div className="goal-icon"><Check size={46}/></div><strong>6%</strong><h2>Full match captured</h2><p>Where this example employer stops.</p></div><div className="goal-future" style={{opacity:reveal(t,161.02)}}><Flag size={54}/><h2>Your retirement goal</h2><p>How much you save overall<br/>is a separate decision.</p></div><svg className="full-svg"><DrawArrow d="M650 587 C850 530 1050 535 1190 585 M1190 585 l-35 -33 M1190 585 l-45 5" p={reveal(t,161.02,1.1)}/></svg><div className="bottom-insight" style={{opacity:reveal(t,168.14)}}><span className="eyebrow">THE DISTINCTION</span><strong className="small">Capture the match. Consider the bigger goal.</strong></div></SceneFrame>}

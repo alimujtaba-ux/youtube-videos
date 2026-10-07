@@ -1,0 +1,20 @@
+import {chromium} from 'playwright';
+import {mkdir,writeFile,readFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import assert from 'node:assert/strict';
+await mkdir('qa',{recursive:true});
+const browser=await chromium.launch({channel:'chrome',headless:true});
+const page=await browser.newPage({viewport:{width:1920,height:1080},deviceScaleFactor:1});
+const errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.goto('http://127.0.0.1:4173/?clean=1');
+await page.waitForFunction(()=>window.__video?.state().duration>0);
+await page.evaluate(()=>document.fonts.ready);
+const times=[2,7.7,25.5,46,60,86.9,104,123,145,168,198,228.5,239,270.7,296,310,334.9,350,356.9,369,384.9,406,418.8];
+const bounds=[];
+for(const t of times){await page.evaluate(t=>window.__video.frame(t),t);await page.waitForTimeout(50);await page.screenshot({path:'qa/frame-'+t+'.png'});const out=await page.evaluate(()=>{const result=[];for(const el of document.querySelectorAll('.scene-layer h1,.scene-layer h2,.scene-layer p,.scene-layer strong,.scene-layer small,.scene-layer .eyebrow,.salary-anchor')){let opacity=1;for(let a=el;a;a=a.parentElement)opacity*=Number(getComputedStyle(a).opacity);if(opacity<.1)continue;const r=el.getBoundingClientRect();if(r.x<90||r.y<60||r.right>1830||r.bottom>1020)result.push({text:el.textContent,rect:{x:r.x,y:r.y,right:r.right,bottom:r.bottom}})}return result});if(out.length)bounds.push({t,out})}
+await page.evaluate(()=>window.__video.frame(137.4));await page.waitForTimeout(30);const first=await page.screenshot();await page.evaluate(()=>window.__video.frame(405));await page.waitForTimeout(30);await page.evaluate(()=>window.__video.frame(137.4));await page.waitForTimeout(30);const second=await page.screenshot();const digest=b=>createHash('sha256').update(b).digest('hex');assert.equal(digest(first),digest(second),'Repeated exact-time frame differs');
+await page.evaluate(()=>window.__video.frame(null));for(const t of [137.4,0,399,52.8,205.5]){await page.evaluate(t=>window.__video.seek(t),t);await page.waitForTimeout(100);const result=await page.evaluate(()=>({audio:window.__video.state().time,visual:Number(document.querySelector('.composition').dataset.time)}));assert.ok(Math.abs(result.audio-t)<.01);assert.ok(Math.abs(result.visual-result.audio)<.002)}
+await page.goto('http://127.0.0.1:4173/');await page.waitForFunction(()=>window.__video?.state().duration>0);await page.getByRole('button',{name:'Play',exact:true}).click();await page.waitForTimeout(1600);await page.getByRole('button',{name:'Pause',exact:true}).click();const paused=await page.evaluate(()=>window.__video.state());await page.waitForTimeout(300);assert.equal((await page.evaluate(()=>window.__video.state())).time,paused.time);assert.ok(paused.time>1);await page.screenshot({path:'qa/player-desktop.png',fullPage:true});
+await page.setViewportSize({width:390,height:844});await page.screenshot({path:'qa/player-mobile.png',fullPage:true});assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth),390,'Mobile page overflows');
+const gallery=await browser.newPage({viewport:{width:1500,height:Math.ceil(times.length/3)*307},deviceScaleFactor:1});let html='<style>body{margin:0;background:#e5e7eb;font:16px Arial;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}figure{margin:0;background:white}img{display:block;width:100%}figcaption{padding:6px 12px}</style>';for(const t of times){const png=await readFile('qa/frame-'+t+'.png');html+='<figure><img src="data:image/png;base64,'+png.toString('base64')+'"><figcaption>'+t+' seconds</figcaption></figure>'}await gallery.setContent(html);await gallery.screenshot({path:'qa/contact-sheet.png',fullPage:true});
+await writeFile('qa/results.json',JSON.stringify({duration:paused.duration,frames:times.length,deterministicFrameHash:digest(first),seekTest:'passed',playPause:'passed',mobileOverflow:'none',errors,bounds},null,2));console.log(JSON.stringify({errors,bounds,frames:times.length},null,2));await browser.close();assert.equal(errors.length,0);

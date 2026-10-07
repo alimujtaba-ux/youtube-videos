@@ -1,0 +1,893 @@
+[
+  {
+    "start": 0,
+    "end": 4.26,
+    "chapter": "hook",
+    "id": "hook-salary",
+    "label": "Imagine your annual salary",
+    "value": "$80,000",
+    "motion": "Construct the salary number as it is spoken."
+  },
+  {
+    "start": 4.26,
+    "end": 6.86,
+    "chapter": "hook",
+    "id": "hook-offer",
+    "label": "Your employer offers",
+    "value": "50% match",
+    "motion": "Draw the employer match rate."
+  },
+  {
+    "start": 6.86,
+    "end": 9.26,
+    "chapter": "hook",
+    "id": "hook-cap",
+    "label": "Up to this share of salary",
+    "value": "6% cap",
+    "motion": "Add the cap separately from the match rate."
+  },
+  {
+    "start": 9.26,
+    "end": 10.76,
+    "chapter": "hook",
+    "id": "hook-employee",
+    "label": "You contribute",
+    "value": "3%",
+    "motion": "Separate the employee contribution from salary."
+  },
+  {
+    "start": 10.76,
+    "end": 14.04,
+    "chapter": "hook",
+    "id": "hook-employee-money",
+    "label": "Your contribution",
+    "value": "$2,400 / year",
+    "motion": "Resolve the percentage into annual dollars."
+  },
+  {
+    "start": 14.04,
+    "end": 15.48,
+    "chapter": "hook",
+    "id": "hook-employer",
+    "label": "Your employer adds",
+    "value": "$1,200 / year",
+    "motion": "Send a second contribution stream into the account."
+  },
+  {
+    "start": 15.48,
+    "end": 20.9,
+    "chapter": "hook",
+    "id": "hook-responsible",
+    "label": "That sounds responsible.",
+    "value": "But is it the full match?",
+    "motion": "Hold the current account while raising the question."
+  },
+  {
+    "start": 20.9,
+    "end": 23.9,
+    "chapter": "hook",
+    "id": "hook-maximum",
+    "label": "Maximum available match",
+    "value": "$2,400 / year",
+    "motion": "Outline the other half of the employer match."
+  },
+  {
+    "start": 23.9,
+    "end": 29.14,
+    "chapter": "hook",
+    "id": "hook-missing",
+    "label": "Potentially left on the table",
+    "value": "$1,200 / year",
+    "motion": "Highlight the gap between available and captured match."
+  },
+  {
+    "start": 29.14,
+    "end": 36.46,
+    "chapter": "definitions",
+    "id": "definitions-separate",
+    "label": "Often confused",
+    "value": "Two different numbers",
+    "motion": "Split the rate and cap into distinct roles."
+  },
+  {
+    "start": 36.46,
+    "end": 44.24,
+    "chapter": "definitions",
+    "id": "definitions-rate",
+    "label": "The match rate",
+    "value": "50%",
+    "motion": "Emphasize the rate and label its job."
+  },
+  {
+    "start": 44.24,
+    "end": 49.5,
+    "chapter": "definitions",
+    "id": "definitions-dollar",
+    "label": "For each eligible dollar",
+    "value": "$1.00 → $0.50",
+    "motion": "Connect employee money to employer money."
+  },
+  {
+    "start": 49.5,
+    "end": 56.68,
+    "chapter": "definitions",
+    "id": "definitions-limit",
+    "label": "The match limit",
+    "value": "6%",
+    "motion": "Move focus from rate to eligible compensation."
+  },
+  {
+    "start": 56.68,
+    "end": 61.54,
+    "chapter": "definitions",
+    "id": "definitions-not-six",
+    "label": "The employer does not automatically add",
+    "value": "6% of salary",
+    "motion": "Strike through the incorrect interpretation."
+  },
+  {
+    "start": 61.54,
+    "end": 66.36,
+    "chapter": "definitions",
+    "id": "definitions-not-return",
+    "label": "This is not a return on",
+    "value": "Your entire salary",
+    "motion": "Distinguish matching from investment performance."
+  },
+  {
+    "start": 66.36,
+    "end": 69.1,
+    "chapter": "formula",
+    "id": "formula-eligible",
+    "label": "Start with the eligible contribution",
+    "value": "$80,000 × 6%",
+    "motion": "Carry the salary and cap into the formula."
+  },
+  {
+    "start": 69.1,
+    "end": 71.2,
+    "chapter": "formula",
+    "id": "formula-4800",
+    "label": "Eligible annual contribution",
+    "value": "$4,800",
+    "motion": "Resolve the first formula into dollars."
+  },
+  {
+    "start": 71.2,
+    "end": 77.36,
+    "chapter": "formula",
+    "id": "formula-eligible-note",
+    "label": "This is your contribution",
+    "value": "Eligible for this match",
+    "motion": "Brace the employee side of the calculation."
+  },
+  {
+    "start": 77.36,
+    "end": 83.2,
+    "chapter": "formula",
+    "id": "formula-match",
+    "label": "Apply the employer’s match rate",
+    "value": "× 50%",
+    "motion": "Carry the rate into the second calculation."
+  },
+  {
+    "start": 83.2,
+    "end": 90.48,
+    "chapter": "formula",
+    "id": "formula-2400",
+    "label": "Maximum employer match",
+    "value": "$2,400 / year",
+    "motion": "Draw an underline below the answer."
+  },
+  {
+    "start": 90.48,
+    "end": 96.16,
+    "chapter": "comparison",
+    "id": "comparison-intro",
+    "label": "Compare three choices",
+    "value": "3% · 6% · 10%",
+    "motion": "Construct three aligned comparison tracks."
+  },
+  {
+    "start": 96.16,
+    "end": 99.98,
+    "chapter": "comparison",
+    "id": "comparison-three",
+    "label": "At a 3% contribution",
+    "value": "$2,400 from you",
+    "motion": "Grow the employee section of the first bar."
+  },
+  {
+    "start": 99.98,
+    "end": 102.96,
+    "chapter": "comparison",
+    "id": "comparison-three-match",
+    "label": "The employer adds",
+    "value": "$1,200",
+    "motion": "Attach the employer section."
+  },
+  {
+    "start": 102.96,
+    "end": 106.82,
+    "chapter": "comparison",
+    "id": "comparison-three-total",
+    "label": "Total entering the account",
+    "value": "$3,600 / year",
+    "motion": "Label the combined first bar."
+  },
+  {
+    "start": 106.82,
+    "end": 111.94,
+    "chapter": "comparison",
+    "id": "comparison-four",
+    "label": "Increase your contribution",
+    "value": "4%",
+    "motion": "Raise the live contribution marker to 4%."
+  },
+  {
+    "start": 111.94,
+    "end": 113.86,
+    "chapter": "comparison",
+    "id": "comparison-five",
+    "label": "The same happens at",
+    "value": "5%",
+    "motion": "Raise both employee and employer values."
+  },
+  {
+    "start": 113.86,
+    "end": 117.92,
+    "chapter": "comparison",
+    "id": "comparison-six",
+    "label": "At a 6% contribution",
+    "value": "$4,800 from you",
+    "motion": "Grow the second employee bar."
+  },
+  {
+    "start": 117.92,
+    "end": 120.96,
+    "chapter": "comparison",
+    "id": "comparison-six-match",
+    "label": "The employer adds",
+    "value": "$2,400",
+    "motion": "Fill the available match to its limit."
+  },
+  {
+    "start": 120.96,
+    "end": 125.16,
+    "chapter": "comparison",
+    "id": "comparison-six-total",
+    "label": "Total entering the account",
+    "value": "$7,200 / year",
+    "motion": "Label the combined second bar."
+  },
+  {
+    "start": 125.16,
+    "end": 131,
+    "chapter": "comparison",
+    "id": "comparison-full",
+    "label": "You have captured",
+    "value": "The full match",
+    "motion": "Circle the 6% threshold."
+  },
+  {
+    "start": 131,
+    "end": 133.26,
+    "chapter": "comparison",
+    "id": "comparison-question",
+    "label": "What if you contribute more?",
+    "value": "Beyond the match",
+    "motion": "Move attention to the 10% track."
+  },
+  {
+    "start": 133.26,
+    "end": 136.96,
+    "chapter": "comparison",
+    "id": "comparison-ten",
+    "label": "At a 10% contribution",
+    "value": "$8,000 from you",
+    "motion": "Extend the employee bar beyond the threshold."
+  },
+  {
+    "start": 136.96,
+    "end": 143.2,
+    "chapter": "comparison",
+    "id": "comparison-ten-match",
+    "label": "The employer still contributes",
+    "value": "$2,400",
+    "motion": "Hold employer bar at the same length."
+  },
+  {
+    "start": 143.2,
+    "end": 147.68,
+    "chapter": "comparison",
+    "id": "comparison-ten-total",
+    "label": "Total entering the account",
+    "value": "$10,400 / year",
+    "motion": "Show the larger combined contribution."
+  },
+  {
+    "start": 147.68,
+    "end": 156.06,
+    "chapter": "comparison",
+    "id": "comparison-plateau",
+    "label": "Your contribution can keep growing",
+    "value": "The match stops at 6%",
+    "motion": "Draw a flat employer-match plateau."
+  },
+  {
+    "start": 156.06,
+    "end": 161.02,
+    "chapter": "goal",
+    "id": "goal-match-goal",
+    "label": "Capturing the full match",
+    "value": "One threshold",
+    "motion": "Locate the match threshold on the savings path."
+  },
+  {
+    "start": 161.02,
+    "end": 163.56,
+    "chapter": "goal",
+    "id": "goal-personal",
+    "label": "Your retirement goal",
+    "value": "A separate decision",
+    "motion": "Extend the path to a personal goal without inventing a target."
+  },
+  {
+    "start": 163.56,
+    "end": 168.14,
+    "chapter": "goal",
+    "id": "goal-six-stop",
+    "label": "6% tells us where",
+    "value": "This example match stops",
+    "motion": "Circle the threshold."
+  },
+  {
+    "start": 168.14,
+    "end": 171.6,
+    "chapter": "goal",
+    "id": "goal-overall",
+    "label": "It does not tell you",
+    "value": "How much to save overall",
+    "motion": "Underline the personal savings decision."
+  },
+  {
+    "start": 171.6,
+    "end": 175.4,
+    "chapter": "gap",
+    "id": "gap-original",
+    "label": "Back to the original contribution",
+    "value": "3% of salary",
+    "motion": "Restore the initial scenario."
+  },
+  {
+    "start": 175.4,
+    "end": 179.44,
+    "chapter": "gap",
+    "id": "gap-available",
+    "label": "Available employer match",
+    "value": "$2,400",
+    "motion": "Reveal the maximum."
+  },
+  {
+    "start": 179.44,
+    "end": 183.04,
+    "chapter": "gap",
+    "id": "gap-captured",
+    "label": "Currently captured",
+    "value": "$1,200",
+    "motion": "Reveal the captured amount."
+  },
+  {
+    "start": 183.04,
+    "end": 186.54,
+    "chapter": "gap",
+    "id": "gap-difference",
+    "label": "The annual difference",
+    "value": "$1,200",
+    "motion": "Subtract the captured amount from the maximum."
+  },
+  {
+    "start": 186.54,
+    "end": 191.76,
+    "chapter": "gap",
+    "id": "gap-one-year",
+    "label": "One year",
+    "value": "$1,200",
+    "motion": "Place the first contribution on a timeline."
+  },
+  {
+    "start": 191.76,
+    "end": 194.96,
+    "chapter": "gap",
+    "id": "gap-five-years",
+    "label": "Five years",
+    "value": "$6,000",
+    "motion": "Accumulate five contributions."
+  },
+  {
+    "start": 194.96,
+    "end": 198.48,
+    "chapter": "gap",
+    "id": "gap-ten-years",
+    "label": "Ten years",
+    "value": "$12,000",
+    "motion": "Accumulate ten contributions."
+  },
+  {
+    "start": 198.48,
+    "end": 205.48,
+    "chapter": "gap",
+    "id": "gap-contributions-only",
+    "label": "Missing contributions only",
+    "value": "Before gains or losses",
+    "motion": "Separate contributions from investment outcomes."
+  },
+  {
+    "start": 205.48,
+    "end": 211.86,
+    "chapter": "growth",
+    "id": "growth-time",
+    "label": "Money contributed earlier",
+    "value": "More time to compound",
+    "motion": "Turn the contribution timeline into chart axes."
+  },
+  {
+    "start": 211.86,
+    "end": 217,
+    "chapter": "growth",
+    "id": "growth-annual",
+    "label": "Additional annual contribution",
+    "value": "$1,200",
+    "motion": "Place the contribution assumption above the curve."
+  },
+  {
+    "start": 217,
+    "end": 220.22,
+    "chapter": "growth",
+    "id": "growth-rate",
+    "label": "Assumed annual return",
+    "value": "7%",
+    "motion": "Reveal the illustrative return assumption."
+  },
+  {
+    "start": 220.22,
+    "end": 225.18,
+    "chapter": "growth",
+    "id": "growth-years",
+    "label": "After 30 years",
+    "value": "30 years",
+    "motion": "Draw the curve toward year 30."
+  },
+  {
+    "start": 225.18,
+    "end": 229.06,
+    "chapter": "growth",
+    "id": "growth-result",
+    "label": "Illustrative future value",
+    "value": "≈ $113,000",
+    "motion": "Reveal the projected difference."
+  },
+  {
+    "start": 229.06,
+    "end": 232.48,
+    "chapter": "growth",
+    "id": "growth-illustration",
+    "label": "An illustration",
+    "value": "Not a promise",
+    "motion": "Keep the curve visible and label its uncertainty."
+  },
+  {
+    "start": 232.48,
+    "end": 235.56,
+    "chapter": "growth",
+    "id": "growth-assumption",
+    "label": "7% is only",
+    "value": "An assumption",
+    "motion": "Emphasize the rate label."
+  },
+  {
+    "start": 235.56,
+    "end": 237.8,
+    "chapter": "growth",
+    "id": "growth-fluctuate",
+    "label": "Actual investments",
+    "value": "Fluctuate",
+    "motion": "Add a variable-return sketch separate from the assumed curve."
+  },
+  {
+    "start": 237.8,
+    "end": 242.62,
+    "chapter": "growth",
+    "id": "growth-fees",
+    "label": "Fees matter",
+    "value": "Returns can be lower",
+    "motion": "Reveal the fee and loss annotations."
+  },
+  {
+    "start": 242.62,
+    "end": 251.46,
+    "chapter": "growth",
+    "id": "growth-point",
+    "label": "The point is the recurring difference",
+    "value": "Compounded over time",
+    "motion": "Bring attention back to time and repeated contributions."
+  },
+  {
+    "start": 251.46,
+    "end": 258.7,
+    "chapter": "calculator",
+    "id": "calculator-open",
+    "label": "Test your own situation",
+    "value": "401(k) employer match",
+    "motion": "Transform the canvas into a calculator."
+  },
+  {
+    "start": 258.7,
+    "end": 263.8,
+    "chapter": "calculator",
+    "id": "calculator-salary",
+    "label": "Annual salary",
+    "value": "$80,000",
+    "motion": "Highlight and fill the salary field."
+  },
+  {
+    "start": 263.8,
+    "end": 266.08,
+    "chapter": "calculator",
+    "id": "calculator-contribution",
+    "label": "Your contribution rate",
+    "value": "3%",
+    "motion": "Fill the employee rate."
+  },
+  {
+    "start": 266.08,
+    "end": 269.7,
+    "chapter": "calculator",
+    "id": "calculator-match-rate",
+    "label": "Employer match rate",
+    "value": "50%",
+    "motion": "Fill the employer rate."
+  },
+  {
+    "start": 269.7,
+    "end": 272.88,
+    "chapter": "calculator",
+    "id": "calculator-match-cap",
+    "label": "Match cap",
+    "value": "6%",
+    "motion": "Fill the cap separately."
+  },
+  {
+    "start": 272.88,
+    "end": 277.6,
+    "chapter": "calculator",
+    "id": "calculator-employee-result",
+    "label": "Employee contribution",
+    "value": "$2,400",
+    "motion": "Reveal the employee result row."
+  },
+  {
+    "start": 277.6,
+    "end": 280.46,
+    "chapter": "calculator",
+    "id": "calculator-employer-result",
+    "label": "Employer match",
+    "value": "$1,200",
+    "motion": "Reveal the employer result row."
+  },
+  {
+    "start": 280.46,
+    "end": 285.08,
+    "chapter": "calculator",
+    "id": "calculator-change",
+    "label": "Change your contribution",
+    "value": "3% → 6%",
+    "motion": "Move the contribution slider to 6%."
+  },
+  {
+    "start": 285.08,
+    "end": 288.92,
+    "chapter": "calculator",
+    "id": "calculator-4800",
+    "label": "Your contribution increases",
+    "value": "$4,800",
+    "motion": "Update the employee result."
+  },
+  {
+    "start": 288.92,
+    "end": 293.84,
+    "chapter": "calculator",
+    "id": "calculator-2400",
+    "label": "Your employer match increases",
+    "value": "$2,400",
+    "motion": "Update the employer result."
+  },
+  {
+    "start": 293.84,
+    "end": 299.7,
+    "chapter": "calculator",
+    "id": "calculator-extra",
+    "label": "Additional employer contribution",
+    "value": "+$1,200 / year",
+    "motion": "Compare the current match to the initial match."
+  },
+  {
+    "start": 299.7,
+    "end": 304.42,
+    "chapter": "calculator",
+    "id": "calculator-above",
+    "label": "Move above the match threshold",
+    "value": "6% → 10%",
+    "motion": "Continue the employee slider while holding the match."
+  },
+  {
+    "start": 304.42,
+    "end": 311.82,
+    "chapter": "calculator",
+    "id": "calculator-capped",
+    "label": "Employer match stays capped",
+    "value": "$2,400",
+    "motion": "Draw the cap line across the result."
+  },
+  {
+    "start": 311.82,
+    "end": 314.24,
+    "chapter": "calculator",
+    "id": "calculator-base",
+    "label": "Salary",
+    "value": "Establishes the base",
+    "motion": "Highlight salary again."
+  },
+  {
+    "start": 314.24,
+    "end": 317.38,
+    "chapter": "calculator",
+    "id": "calculator-controls",
+    "label": "Your contribution rate",
+    "value": "Controls what you put in",
+    "motion": "Highlight contribution."
+  },
+  {
+    "start": 317.38,
+    "end": 319.58,
+    "chapter": "calculator",
+    "id": "calculator-share",
+    "label": "The match rate",
+    "value": "Determines the employer’s share",
+    "motion": "Highlight match rate."
+  },
+  {
+    "start": 319.58,
+    "end": 324.38,
+    "chapter": "calculator",
+    "id": "calculator-stops",
+    "label": "The match limit",
+    "value": "Determines where the match stops",
+    "motion": "Highlight cap."
+  },
+  {
+    "start": 324.38,
+    "end": 331.8,
+    "chapter": "rules",
+    "id": "rules-details",
+    "label": "Check your actual plan",
+    "value": "Formulas vary",
+    "motion": "Collapse calculator assumptions into plan-document diagrams."
+  },
+  {
+    "start": 331.8,
+    "end": 334.14,
+    "chapter": "rules",
+    "id": "rules-dollar",
+    "label": "Some match dollar for dollar",
+    "value": "$1.00 per $1.00",
+    "motion": "Draw the one-to-one formula."
+  },
+  {
+    "start": 334.14,
+    "end": 337.06,
+    "chapter": "rules",
+    "id": "rules-half",
+    "label": "Some contribute fifty cents",
+    "value": "$0.50 per $1.00",
+    "motion": "Switch the employer ratio."
+  },
+  {
+    "start": 337.06,
+    "end": 341.6,
+    "chapter": "rules",
+    "id": "rules-tiers",
+    "label": "Others use multiple tiers",
+    "value": "Or nonelective contributions",
+    "motion": "Draw tiered and employer-only contributions."
+  },
+  {
+    "start": 341.6,
+    "end": 345.3,
+    "chapter": "rules",
+    "id": "rules-paycheck",
+    "label": "Some plans calculate the match",
+    "value": "Every paycheck",
+    "motion": "Construct twelve month markers for the timing concept."
+  },
+  {
+    "start": 345.3,
+    "end": 351.52,
+    "chapter": "rules",
+    "id": "rules-early",
+    "label": "Reach the annual limit too early?",
+    "value": "Later matches may be missed",
+    "motion": "Dim later matching slots."
+  },
+  {
+    "start": 351.52,
+    "end": 356.42,
+    "chapter": "rules",
+    "id": "rules-true-up",
+    "label": "Some employers provide",
+    "value": "A year-end true-up",
+    "motion": "Draw a reconciliation arrow across the year."
+  },
+  {
+    "start": 356.42,
+    "end": 357.88,
+    "chapter": "rules",
+    "id": "rules-no-true-up",
+    "label": "Others do not.",
+    "value": "Check your plan",
+    "motion": "Hold the missing slots with a plan-dependent label."
+  },
+  {
+    "start": 357.88,
+    "end": 359.8,
+    "chapter": "rules",
+    "id": "rules-vesting",
+    "label": "Vesting also matters",
+    "value": "Ownership over time",
+    "motion": "Transform the timeline into vesting blocks."
+  },
+  {
+    "start": 359.8,
+    "end": 361.92,
+    "chapter": "rules",
+    "id": "rules-yours",
+    "label": "Your own contributions",
+    "value": "Are yours",
+    "motion": "Fill the employee ownership bar."
+  },
+  {
+    "start": 361.92,
+    "end": 366.04,
+    "chapter": "rules",
+    "id": "rules-employer-vesting",
+    "label": "Employer contributions",
+    "value": "May have a vesting schedule",
+    "motion": "Partially fill a schematic employer bar."
+  },
+  {
+    "start": 366.04,
+    "end": 372.46,
+    "chapter": "rules",
+    "id": "rules-leave",
+    "label": "Leave before full vesting?",
+    "value": "You may not keep all employer funds",
+    "motion": "Show the unvested portion separately."
+  },
+  {
+    "start": 372.46,
+    "end": 378,
+    "chapter": "checklist",
+    "id": "checklist-documents",
+    "label": "Review your plan documents",
+    "value": "Summary plan description",
+    "motion": "Introduce the checklist and source documents."
+  },
+  {
+    "start": 378,
+    "end": 379.78,
+    "chapter": "checklist",
+    "id": "checklist-formula",
+    "label": "Confirm",
+    "value": "The matching formula",
+    "motion": "Check the formula item."
+  },
+  {
+    "start": 379.78,
+    "end": 381.34,
+    "chapter": "checklist",
+    "id": "checklist-compensation",
+    "label": "Confirm",
+    "value": "Eligible compensation",
+    "motion": "Check eligible compensation."
+  },
+  {
+    "start": 381.34,
+    "end": 382.82,
+    "chapter": "checklist",
+    "id": "checklist-timing",
+    "label": "Confirm",
+    "value": "Contribution timing",
+    "motion": "Check contribution timing."
+  },
+  {
+    "start": 382.82,
+    "end": 383.86,
+    "chapter": "checklist",
+    "id": "checklist-true-up",
+    "label": "Confirm",
+    "value": "True-up policy",
+    "motion": "Check true-up policy."
+  },
+  {
+    "start": 383.86,
+    "end": 385.56,
+    "chapter": "checklist",
+    "id": "checklist-vesting",
+    "label": "Confirm",
+    "value": "Vesting schedule",
+    "motion": "Check vesting schedule."
+  },
+  {
+    "start": 385.56,
+    "end": 391.1,
+    "chapter": "checklist",
+    "id": "checklist-education",
+    "label": "Educational content",
+    "value": "Not financial, tax, or investment advice",
+    "motion": "Display the narration’s educational disclosure."
+  },
+  {
+    "start": 391.1,
+    "end": 396.02,
+    "chapter": "outro",
+    "id": "outro-return",
+    "label": "Return to the $80,000 example",
+    "value": "3% versus 6%",
+    "motion": "Restore the same comparison objects."
+  },
+  {
+    "start": 396.02,
+    "end": 400.44,
+    "chapter": "outro",
+    "id": "outro-1200",
+    "label": "At 3%, the employer adds",
+    "value": "$1,200",
+    "motion": "Reveal the first employer match."
+  },
+  {
+    "start": 400.44,
+    "end": 403.22,
+    "chapter": "outro",
+    "id": "outro-2400",
+    "label": "At 6%, the employer adds",
+    "value": "$2,400",
+    "motion": "Reveal the second employer match."
+  },
+  {
+    "start": 403.22,
+    "end": 408.46,
+    "chapter": "outro",
+    "id": "outro-difference",
+    "label": "The annual difference",
+    "value": "+$1,200",
+    "motion": "Connect the two scenarios with the difference."
+  },
+  {
+    "start": 408.46,
+    "end": 414.02,
+    "chapter": "outro",
+    "id": "outro-understand",
+    "label": "Before choosing your contribution",
+    "value": "Understand your employer match",
+    "motion": "Resolve the comparison into the key takeaway."
+  },
+  {
+    "start": 414.02,
+    "end": 420.675875,
+    "chapter": "outro",
+    "id": "outro-brand",
+    "label": "Test your own numbers",
+    "value": "calcmatrix.net",
+    "motion": "Reveal the supplied brand asset and calculator call to action."
+  }
+]

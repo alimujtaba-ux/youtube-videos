@@ -1,0 +1,4 @@
+import {drawStyle,clamp} from '../motion/interpolate';
+export function DrawArrow({d,p=1,color='var(--accent)'}:{d:string;p?:number;color?:string}){return <g fill="none" stroke={color} strokeWidth="5" strokeLinecap="round" strokeLinejoin="round"><path d={d} pathLength="1" style={drawStyle(p)}/></g>}
+export function DrawCircle({cx,cy,rx,ry,p=1}:{cx:number;cy:number;rx:number;ry:number;p?:number}){return <ellipse cx={cx} cy={cy} rx={rx} ry={ry} fill="none" stroke="var(--accent)" strokeWidth="5" pathLength="1" transform={'rotate(-4 '+cx+' '+cy+')'} style={drawStyle(p)}/>}
+export function DrawUnderline({x,y,width,p=1}:{x:number;y:number;width:number;p?:number}){return <path d={'M '+x+' '+y+' Q '+(x+width*.5)+' '+(y-12)+' '+(x+width)+' '+(y-2)} fill="none" stroke="var(--accent)" strokeWidth="8" strokeLinecap="round" pathLength="1" style={drawStyle(clamp(p))}/>}

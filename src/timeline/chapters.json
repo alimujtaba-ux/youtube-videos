@@ -1,0 +1,90 @@
+[
+  {
+    "id": "hook",
+    "start": 0,
+    "end": 29.14,
+    "title": "The match you might be missing",
+    "short": "The gap",
+    "objective": "Salary becomes the account contribution; reveal the uncaptured employer amount."
+  },
+  {
+    "id": "definitions",
+    "start": 29.14,
+    "end": 66.36,
+    "title": "Two numbers. Two different jobs.",
+    "short": "Rate / limit",
+    "objective": "Separate match rate from eligible salary cap using a dollar-to-fifty-cents flow."
+  },
+  {
+    "id": "formula",
+    "start": 66.36,
+    "end": 90.48,
+    "title": "Find the maximum employer match",
+    "short": "The formula",
+    "objective": "Construct salary × cap, then eligible contribution × match rate."
+  },
+  {
+    "id": "comparison",
+    "start": 90.48,
+    "end": 156.06,
+    "title": "What changes at 3%, 6%, and 10%?",
+    "short": "3 / 6 / 10%",
+    "objective": "Grow employee and employer bars together, then hold employer bar at the cap."
+  },
+  {
+    "id": "goal",
+    "start": 156.06,
+    "end": 171.6,
+    "title": "The match is one piece of the plan",
+    "short": "Your goal",
+    "objective": "Separate the 6% match threshold from a personal retirement savings goal."
+  },
+  {
+    "id": "gap",
+    "start": 171.6,
+    "end": 205.48,
+    "title": "A small gap, repeated every year",
+    "short": "Missing match",
+    "objective": "Subtract captured from available match and accumulate the gap across years."
+  },
+  {
+    "id": "growth",
+    "start": 205.48,
+    "end": 251.46,
+    "title": "Give the difference time to grow",
+    "short": "Compounding",
+    "objective": "Transform repeated contributions into a 30-year growth curve, then show assumption and risk annotations."
+  },
+  {
+    "id": "calculator",
+    "start": 251.46,
+    "end": 324.38,
+    "title": "Put your own numbers to work",
+    "short": "Calculator",
+    "objective": "Build a branded calculator; highlight fields as narrated and change the contribution from 3% to 6% to 10%."
+  },
+  {
+    "id": "rules",
+    "start": 324.38,
+    "end": 372.46,
+    "title": "Your plan’s details make a difference",
+    "short": "Plan details",
+    "objective": "Draw plan formulas, paycheck timing, true-up, and vesting as four evolving diagrams."
+  },
+  {
+    "id": "checklist",
+    "start": 372.46,
+    "end": 391.1,
+    "title": "Check before you change",
+    "short": "Checklist",
+    "objective": "Build a plan-document checklist at each spoken item."
+  },
+  {
+    "id": "outro",
+    "start": 391.1,
+    "end": 420.675875,
+    "title": "Understand the match. Then choose.",
+    "short": "Takeaway",
+    "objective": "Return to the same 3% and 6% comparison, isolate the $1,200 difference, then resolve to the supplied logo and website."
+  }
+]

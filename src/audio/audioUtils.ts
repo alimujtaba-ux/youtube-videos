@@ -1,0 +1,1 @@
+export function timecode(t:number,precise=false){const safe=Math.max(0,t);const m=Math.floor(safe/60);const s=Math.floor(safe%60);return String(m).padStart(2,'0')+':'+String(s).padStart(2,'0')+(precise?'.'+String(Math.floor((safe%1)*1000)).padStart(3,'0'):'')}

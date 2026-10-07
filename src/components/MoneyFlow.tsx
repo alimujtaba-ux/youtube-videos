@@ -1,0 +1,2 @@
+import {clamp} from '../motion/interpolate';
+export function MoneyFlow({time,at=0,match=false}:{time:number;at?:number;match?:boolean}){const duration=1.8;return <g>{Array.from({length:5},(_,i)=>{const p=clamp((time-at-i*.28)/duration);const x=470+p*510;const y=(match?720:440)+(570-(match?720:440))*p;return <g key={i} opacity={p>0&&p<1?1:0} transform={'translate('+x+' '+y+')'}><rect x="-28" y="-18" width="56" height="36" rx="7" fill={match?'var(--positive)':'var(--accent)'}/><text textAnchor="middle" y="9" fill="white" fontSize="25">$</text></g>})}</g>}

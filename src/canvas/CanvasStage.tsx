@@ -1,0 +1,3 @@
+import {useLayoutEffect,useRef,useState,type ReactNode} from 'react';
+import {canvas} from '../design-system/tokens';
+export function CanvasStage({children}:{children:ReactNode}){const host=useRef<HTMLDivElement>(null);const [scale,setScale]=useState(1);useLayoutEffect(()=>{const el=host.current!;const resize=()=>setScale(el.clientWidth/canvas.width);resize();const observer=new ResizeObserver(resize);observer.observe(el);return()=>observer.disconnect()},[]);return <div className="stage-host" ref={host}><div className="stage" style={{width:canvas.width,height:canvas.height,transform:'scale('+scale+')'}}>{children}</div></div>}

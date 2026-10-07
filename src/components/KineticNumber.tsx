@@ -1,0 +1,2 @@
+import {lerp,reveal} from '../motion/interpolate';
+export function KineticNumber({value,from=0,time,at=0,prefix='$',suffix='',digits=0,reduced=false}:{value:number;from?:number;time:number;at?:number;prefix?:string;suffix?:string;digits?:number;reduced?:boolean}){const n=lerp(from,value,reveal(time,at,.65,reduced));return <span className="numeric">{prefix}{n.toLocaleString('en-US',{minimumFractionDigits:digits,maximumFractionDigits:digits})}{suffix}</span>}
